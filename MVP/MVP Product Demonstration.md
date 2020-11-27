@@ -43,6 +43,13 @@ The greenhouse crop we have decided to focuses on is strawberries as it is a hig
 
 ## Demonstration
 
+The path finder uses:
+- a line follower (to to detect the lines on the floor)
+- H-bridge (to drive the motors)
+- 2 motors
+- temperature and humidity sensor
+- push button switch (to execute and pause the mbed program)
+
 Using the component list we created a rough sketch of what out circuit might look like:
 
 
