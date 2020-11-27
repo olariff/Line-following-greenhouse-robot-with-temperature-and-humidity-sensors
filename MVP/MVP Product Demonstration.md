@@ -1,9 +1,9 @@
-# Product Demonstration Report
+# **Product Demonstration Report**
 
 As a team we have agreed to design and develop a path finder bot to monitoring temperature and humidity in indoor green house.
 
 ## Introduction
-### Project: Path Finder for indoor green House (for monitoring temperature and humidity in greenhouse)
+### Project: Path Finder for indoor green House (_for monitoring temperature and humidity in greenhouse_)
 
 Some of the importance of managing temperature and humidity in a greenhouse are: 
 
@@ -17,7 +17,8 @@ Some of the importance of managing temperature and humidity in a greenhouse are:
 
         - Steering the crops to grow to a particular growth cycle leads to high yield. 
         - Increase the ability of crops to take in extract nutrition for soli and environment leads to a tastier produce. 
-        - Corps that require a particular environmental condition can grow. Example: Iceland (due to icy cold environment and geo-thermal warm soil vegetables cannot  be grown in outdoor farms) [1]. 
+        - Corps that require a particular environmental condition can grow. 
+          Example: Iceland (due to icy cold environment and geo-thermal warm soil vegetables cannot  be grown in outdoor farms) [1]. 
 
 In a greenhouse the it is crucial to maintain a constant temperature and humidity. This is a tricky process as simply opening a door can create a micro climate. It is important that the temperature and humidity is equally distributed throughout the greenhouse to avoid microclimate. 
 
@@ -39,3 +40,10 @@ The case studies above are a great example of where are project is focused on. G
 #### Application: 
 
 The greenhouse crop we have decided to focuses on is strawberries as it is a high desired crop recognized for their juicy flavor, deep scarlet colour and nutritional benefits. Strawberries are true local summer fruit and require a string of cool temperature to flower and hot, humid temperature to develop and constate their sweetness. They are widely used in desserts and dried breakfast cereal. They are a perfect example of a crop which is grown all year around in indoor greenhouse to meet the demand. To increase their sweetness the daytime temperature needs to be 24oC  and the night temperature 13oC. Cool night temperature allows the fruit to develop their flavor and hot day time temperature concentrate the flavor. The humidity need to be 60% to 75%, as it benefits the nutrition of the fruit [2]. Temperature and humidity is not the only factors which affects the growth of the fruit. Good quality soil is needed to increase its calcium uptake and sunlight is needed for photosynthesis to develop the deep scarlet colour. Temperature and humidity are importation to make sure that the crop can be grown all year around in an indoor green house. 
+
+## Demonstration
+
+
+## Reference
+
+[1]     
