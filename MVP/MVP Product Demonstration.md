@@ -52,6 +52,7 @@ The path finder uses:
 
 Using the component list we created a rough sketch of what out circuit might look like:
 
+![Basic circuit design](MVP/images/circuit_design.png)
 
 
 ## Reference
