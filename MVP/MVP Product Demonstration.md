@@ -52,8 +52,7 @@ The path finder uses:
 
 Using the component list we created a rough sketch of what out circuit might look like:
 
-![Basic circuit design](MVP/images/circuit_design.png "Basic outline of the circuit")
-
+<img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="700" height="500">
 
 ## Reference
 
