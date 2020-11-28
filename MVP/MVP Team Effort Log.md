@@ -19,4 +19,4 @@
 
 * This [story](https://cseejira.essex.ac.uk/browse/A293011-87) was assigned to Ahmad in week 8. It has 5 story points. This story was about creating the discussion section of the Project Management Log for the MVP. This is [link](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/commit/95618ed755517b200ce90401915c32f6b84f746a) to the work done by Ahmad.
 
-* This [subtask](https://cseejira.essex.ac.uk/browse/A293011-90) was assigned to Ahmad in week 8. It has 5 story points. It is about contributing to creaing the fourth document of the MVP, [Team Effort Log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/95618ed755517b200ce90401915c32f6b84f746a/MVP/MVP%20Team%20Effort%20Log.md).
+* This [subtask](https://cseejira.essex.ac.uk/browse/A293011-90) was assigned to Ahmad in week 8. It has 5 story points. It is about contributing to creaing the fourth document of the MVP, [Team Effort Log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/3ae1b51aca2d6cab85b3d8244ac21b70456e1bd6/MVP/MVP%20Team%20Effort%20Log.md).
