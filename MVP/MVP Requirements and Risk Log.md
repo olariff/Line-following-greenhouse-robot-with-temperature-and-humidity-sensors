@@ -35,11 +35,26 @@ To protect ourselves from busier working periods and provide a form of redundanc
 - [x] Possible to occur
 - [x] Major impact on project
 
+_Overview_  
+ As the project progresses, the product in development will begin to take shape. With the ongoing communication problems we are facing, there is a possibility that obtaining and using regular client feedback could become more difficult, or we may struggle to implement feedback correctly. This presents a risk that the team may fail to develop a product that is fit for purpose and does not meet its specification. 
+
+_Mitigating Actions_  
+To maintain a clear image of how the product is shaping up, it is important that documentation is regularly updated. This will be the best method of ensuring that team members and the client can access the documents and are aware of what state the project is currently in. In addition, we must regularly assess the product against its specification to ensure we do not end up with a failing product.
 
 ---
 
+#### _Risk:_ [_Data losses_](https://cseejira.essex.ac.uk/browse/A293011-102) 
 
+- [x] Unlikely to occur
+- [x] Minor impact on project
 
+_Overview_  
+Work that is stored digitally remains at risk of loss from hardware failure, or website crashes/downtime.
+
+_Mitigating Actions_  
+To minimise potential data loss, we will use gitlab as our main repository while team members will keep back-ups of work they produce (ideally using university server).
+
+---
 
 
 
