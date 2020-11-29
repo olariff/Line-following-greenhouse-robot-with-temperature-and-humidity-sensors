@@ -20,7 +20,13 @@ To counteract covid-19 restrictions and prevent breakdown of team relationship, 
 - [x] Possible to occur
 - [x] Catastrophic impact on project
 
-_Overview_
+_Overview_  
+As all team members have other work commitments outside of the project, we must be aware that the amount of human resources at our disposal will not remain constant. There will likely be times when members are unable to contribute fully to sprints and tasks which, unless accounted for, risks the team successfully meeting deadlines. The same risk also presents itself from a failure to accurately estimate the complexity of assigned tasks. If we continually underestimate the time required to complete work, it will become more likely for us to fall behind schedule and fail to complete work on time. 
+
+_Mitigating Actions_  
+To help improve our estimation accuracy, we must ensure that assigned tasks are well defined and achievable. This will be achieved by including into our scrum retrospectives a discussion on the real time taken to complete assigned tasks against the estimates. Over time this will help improve scrum burndown charts which will better represent team performance.
+
+To protect ourselves from busier working periods and provide a form of redundancy, where possible we will assign tasks to pairs of team members who will work together for the duration of the sprint. This will reduce the possibility of failing to complete tasks as it reduces the impact of individual work loads. We should still try and avoid this possibility, and team members should attempt to remain organised and inform the team at the earliest opportunity should they feel they will be unable to complete assigned tasks.
 
 ---
 
