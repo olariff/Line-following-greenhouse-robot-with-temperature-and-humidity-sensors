@@ -20,3 +20,23 @@
 * This [story](https://cseejira.essex.ac.uk/browse/A293011-87) was assigned to Ahmad in week 8. It has 5 story points. This story was about creating the discussion section of the Project Management Log for the MVP. This is [link](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/commit/95618ed755517b200ce90401915c32f6b84f746a) to the work done by Ahmad.
 
 * This [subtask](https://cseejira.essex.ac.uk/browse/A293011-90) was assigned to Ahmad in week 8. It has 5 story points. It is about contributing to creaing the fourth document of the MVP, [Team Effort Log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/3ae1b51aca2d6cab85b3d8244ac21b70456e1bd6/MVP/MVP%20Team%20Effort%20Log.md).
+
+
+## ROBERT LEEDHAM
+
+### Sprint 1 (week 3 and 4)
+
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-9) was left unassigned for any team member to contribute to during sprint 1. I researched similar projects currently in development and created a [reference document](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_3_Documents/areas%20of%20interest%20and%20examples.pdf) of possible examples to base our project on.
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-28) was set and completed during sprint 1 and was worth 10 story points. The task gave the opportunity to research [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Robert%20Leedham/Pulse%20Width%20Modulation%20(PWM).pdf) control, and the data transfer protocols [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Robert%20Leedham/Serial%20Peripheral%20Interface%20(SPI).pdf) and [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Robert%20Leedham/Inter-integrated%20Circuit%20(I2C).pdf) which are to be used in the project. 
+* [This sub-task](https://cseejira.essex.ac.uk/browse/A293011-12) was assigned to myself during sprint 1. It involved setting up an mbed account and getting familiar with the mbed compiler and simulator.
+
+### Sprint 2 (week 5 and 6)
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-60) was set during sprint 2 and carried over to sprint 3. It was not fully completed but a [short document](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Robert/PWM_challenge_1.pdf) comparing different ways of achieving PWM was produced.
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-46) was set and completed during sprint 2 and was worth 3 story points. It was succesfully compelted by installing the eagle PCB software.
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-44) was assigned during sprint 2 and was worth 7 story points. The task required reading tutorials on the eagle PCB software. 
+
+### Sprint 3 (week 7 and 8)
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-83) was set during sprint 3 and was worth 5 story points. The task involved [highlighting potential risks to our project](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Risk%20Management/Potential_Project_Risks.pdf) and creating documents to be used in the [risk log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Requirements%20and%20Risk%20Log.md) of the MVP.
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-91)  worth 5 story points was assigned during sprint 3. It required the completion of the individual [team effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Team%20Effort%20Log.md).
+*  [This task](https://cseejira.essex.ac.uk/browse/A293011-69) was carried out during the weekly scrum meeting. It involved using the mbed compiler to create [.bin files of the example codes](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Robert)  of PWM, SPI, and I2C.
