@@ -52,8 +52,10 @@
 * [This jira story]() was to research and write a one-page description of [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_SPI.pdf) protocol, one-page description of [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_I2C.pdf) protocol and one-page description of [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_PWM.pdf) control. This task was assigned 10 story points and was to be completed in week 4.  
 
 ### Sprint 2 (week 5 and 6)
-* [This jira story]() 
+* [This jira story]() I rearched a project proposal for a pathfinder for a greenhouse for monitoring temperature and humidity. I complied a basic component list and researched on how the component would be utilised in the pathfinder bot. This proposal was taken foward by the group as a project to focuse on. I uploaded a document on [GitLab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Sagar%20Kandel/_sk17834__week6.pdf) containing the research.  
+
 * [This jira story]() was to successfully download the software on a personal computer. The task was to get familiar with using the software. The objective was to successfully open a given file. The story was assined 3 story point and was to be compleated in week 5. 
+
 * [This jira story]() involved reading and watching video tutorials on the eagle PCB software. This story was assigned during sprint 2 and was worth 7 story points. 
 
 ### Sprint 3 (week 7 and 8)
