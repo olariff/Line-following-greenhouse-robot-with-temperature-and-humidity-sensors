@@ -44,8 +44,9 @@
 ## SAGAR KANDEL
 ### Sprint 1 (week 3 and 4)
 * [This jira story]()
-* [This jira story]()
-* [This jira story]() was to research and write a one-page description of [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_SPI.pdf) protocol, one-page description of [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_I2C.pdf) protocol and one-page description of [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_PWM.pdf) control. This task was assigned 10 story points and was to be done in week 4.  
+* [This jira sub-taks]() involved creating an [mbed account](https://os.mbed.com/teams/CE261-2014-15/) and getting familiar with using mbed complier and simulator. The task was to send the username to the module supervisor so we could be added to the CE293 Embedded : 2020-21 teams directory. 
+
+* [This jira story]() was to research and write a one-page description of [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_SPI.pdf) protocol, one-page description of [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_I2C.pdf) protocol and one-page description of [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_PWM.pdf) control. This task was assigned 10 story points and was to be completed in week 4.  
 
 ### Sprint 2 (week 5 and 6)
 * [This jira story]()
