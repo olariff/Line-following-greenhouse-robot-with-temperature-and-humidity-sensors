@@ -40,3 +40,14 @@
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-83) was set during sprint 3 and was worth 5 story points. The task involved [highlighting potential risks to our project](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Risk%20Management/Potential_Project_Risks.pdf) and creating documents to be used in the [risk log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Requirements%20and%20Risk%20Log.md) of the MVP.
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-91)  worth 5 story points was assigned during sprint 3. It required the completion of the individual [team effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Team%20Effort%20Log.md).
 *  [This task](https://cseejira.essex.ac.uk/browse/A293011-69) was carried out during the weekly scrum meeting. It involved using the mbed compiler to create [.bin files of the example codes](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Robert)  of PWM, SPI, and I2C.
+
+## SAGAR KANDEL
+### Sprint 1 (week 3 and 4)
+
+
+### Sprint 2 (week 5 and 6)
+
+### Sprint 3 (week 7 and 8)
+
+
+
