@@ -43,8 +43,11 @@
 
 ## SAGAR KANDEL
 ### Sprint 1 (week 3 and 4)
-* [This jira story]()
+* [This jira story]() involved getting familiar with using the command-line for git. It involved editing, pushing, pulling and commiting [collaboration.txt](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_3_Documents/collaboration.txt) file using the command-line of git and GitLab online site. This was story was assigned in week 3 and worth 2 story points. The story took 3 hours to sucessfully complete in [GitLab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/commit/1eea75205b8e32087cdcfba404abe6a73c57182d). 
+
 * [This jira sub-taks]() involved creating an [mbed account](https://os.mbed.com/teams/CE261-2014-15/) and getting familiar with using mbed complier and simulator. The task was to send the username to the module supervisor so we could be added to the CE293 Embedded : 2020-21 teams directory. 
+
+* [This jira story]() was not assigned to any particular team member in sprint 1. I rearched the potential areas our project could focuse on. In the [Inital Thoughts on Design PDF](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_3_Documents/Initial_thoughts_on_Design_.pdf) mindmap I branched some of the project suggestion to give an key-aspect of the project such as what application they could be implemented on and how they would work.
 
 * [This jira story]() was to research and write a one-page description of [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_SPI.pdf) protocol, one-page description of [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_I2C.pdf) protocol and one-page description of [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sagar%20Kandel/Description_of_PWM.pdf) control. This task was assigned 10 story points and was to be completed in week 4.  
 
