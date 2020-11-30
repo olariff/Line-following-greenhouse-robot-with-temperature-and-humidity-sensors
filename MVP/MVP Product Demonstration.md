@@ -1,6 +1,6 @@
 # **Product Demonstration Report**
 
-As a team we have agreed to design and develop a pathfinder bot to monitoring temperature and humidity in indoor greenhouse. With the on-going covid-19 restrictions we are not physically able to demonstrate our product. We cannot create quick turn-around solution to a problems and test to see if the solution words. This is in part due to the limited time available in the schedule of session. This will have a major affect of the development and testing of our code and product. It is important to highlight this in our risk log.
+As a team we have agreed to design and develop a pathfinder bot to monitoring temperature and humidity in indoor greenhouse. With the on-going covid-19 restrictions we are not physically able to demonstrate our product. We cannot create quick turn-around solution to a problems and test to see if the solution words. This is in part due to the limited time available in the schedule of session. This will have a major affect of the development and testing of our code and product. It is important to highlight this in our [**risk log**](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Requirements%20and%20Risk%20Log.md).
 
 ## Introduction
 
