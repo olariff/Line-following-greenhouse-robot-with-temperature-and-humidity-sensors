@@ -1,6 +1,6 @@
 # **Product Demonstration Report**
 
-As a team we have agreed to design and develop a path finder bot to monitoring temperature and humidity in indoor green house. This report will contain a brief description and demo of the product. The demo of the product will include implemention and testing codes and key aspects of the product along its devlopment cycle. 
+As a team we have agreed to design and develop a path finder bot to monitoring temperature and humidity in indoor green house. This report will contain a brief description and demo of the product. The demo of the product will include implemention and testing codes and key aspects of the product along its devlopment cycle. With the on-going covid-19 restrictions we are not physically able to demonstrate our product. 
 
 ## Introduction
 ### Project: Path Finder for indoor green House (_for monitoring temperature and humidity in greenhouse_)
