@@ -23,7 +23,7 @@ Some of the importance of managing temperature and humidity in a greenhouse are:
         - Steering the crops to grow to a particular growth cycle leads to high yield. 
         - Increase the ability of crops to take in extract nutrition for soli and environment leads to a tastier produce. 
         - Corps that require a particular environmental condition can grow. 
-          Example: Iceland (due to icy cold environment and geo-thermal warm soil vegetables cannot be grown in outdoor farms) [1]. 
+          Example: Iceland (due to icy cold environment and geo-thermal warm soil vegetables cannot be grown in outdoor farms). 
 
 In a greenhouse the it is crucial to maintain a constant temperature and humidity. This is a tricky process as simply opening a door can create a micro climate. It is important that the temperature and humidity is equally distributed throughout the greenhouse to avoid microclimate. 
 
@@ -35,7 +35,7 @@ In an indoor greenhouse farms some of the methods used to control the temperatur
 
 
 #### Case study: 
-- A perfect case study are indoor greenhouses Iceland, where high in demand vegetables such as carrots, cucumbers, potatoes and cabbages are grown all year around in to meet the demand. These are just a few examples and in addition, the crops are grown using electricity and heat produced by the geothermal energy [1][3]. 
+- A perfect case study are indoor greenhouses Iceland, where high in demand vegetables such as carrots, cucumbers, potatoes and cabbages are grown all year around in to meet the demand. These are just a few examples and in addition, the crops are grown using electricity and heat produced by the geothermal energy. 
 
 - In the UK indoor farms are becoming a better model for growing plant based foods to change the eating habits. Indoor farming has been accelerated with the introduction of vertical farming where, crops are grown in a stacked system indoor under fully controlled conditions without the need for solar energy.
 
@@ -44,7 +44,7 @@ The case studies above are a great example of where are project is focused on. G
 
 #### Application: 
 
-The greenhouse crop we have decided to focuses on is strawberries as it is a high desired crop recognized for their juicy flavor, deep scarlet colour and nutritional benefits. Strawberries are true local summer fruit and require a string of cool temperature to flower and hot, humid temperature to develop and constate their sweetness. They are widely used in desserts and dried breakfast cereal. They are a perfect example of a crop which is grown all year around in indoor greenhouse to meet the demand. To increase their sweetness the daytime temperature needs to be 24 degrees Celsius  and the night temperature 13 degrees Celsius. Cool night temperature allows the fruit to develop their flavor and hot day time temperature concentrate the flavor. The humidity need to be 60% to 75%, as it benefits the nutrition of the fruit [2]. Temperature and humidity is not the only factors which affects the growth of the fruit. Good quality soil is needed to increase its calcium uptake and sunlight is needed for photosynthesis to develop the deep scarlet colour. Temperature and humidity are importation to make sure that the crop can be grown all year around in an indoor green house. 
+The greenhouse crop we have decided to focuses on is strawberries as it is a high desired crop recognized for their juicy flavor, deep scarlet colour and nutritional benefits. Strawberries are true local summer fruit and require a string of cool temperature to flower and hot, humid temperature to develop and constate their sweetness. They are widely used in desserts and dried breakfast cereal. They are a perfect example of a crop which is grown all year around in indoor greenhouse to meet the demand. To increase their sweetness the daytime temperature needs to be 24 degrees Celsius  and the night temperature 13 degrees Celsius. Cool night temperature allows the fruit to develop their flavor and hot day time temperature concentrate the flavor. The humidity need to be 60% to 75%, as it benefits the nutrition of the fruit. Temperature and humidity is not the only factors which affects the growth of the fruit. Good quality soil is needed to increase its calcium uptake and sunlight is needed for photosynthesis to develop the deep scarlet colour. Temperature and humidity are importation to make sure that the crop can be grown all year around in an indoor green house. 
 
 ## Demonstration
 
@@ -63,9 +63,4 @@ We used the component list we created a rough sketch of what out circuit might l
 <p align="center">
   <img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
 </p>
-Figure 1: Basic inital design of the circuit created in [Fritzing](https://fritzing.org) CAD software. 
-
-
-## Reference
-
-[1]     
+Figure 1: Basic inital design of the circuit created in [Fritzing](https://fritzing.org) CAD software.      
