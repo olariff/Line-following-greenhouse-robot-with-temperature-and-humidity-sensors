@@ -87,3 +87,7 @@
 
 ### sprint 2 (week 5 and 6)
 * The task was about watching video tutorials and be familiar with  Eagle PCD software.  Also, Install the software on my computer. [This story](https://cseejira.essex.ac.uk/browse/A293011-39) assigned in week 5 and has 3 story points.
+
+## Sheriff Oladunjoye
+### Sprint 1 (week 3 and 4)
+
