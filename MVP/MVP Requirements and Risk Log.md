@@ -3,6 +3,20 @@
 The success of any project is not guaranteed and will be prone to risks influenced by many different factors. With the ongoing covid-19 restrictions our project faces an increased element of risk which must also be accounted for. As such, at present there is several risks which threaten the success of our project; as a team we have begun to identify and track these with the aim of mitigating their effects.
 
 ---
+
+#### _Risk_: [_Very limited access to car for testing_](https://cseejira.essex.ac.uk/browse/A293011-105)
+
+- [x] Certain to occur
+- [x] Major impact on project
+
+_Overview_  
+In the last week it has become apparent that having limited access to the physical car is making it difficult and extremely time consuming to test even relatively simple code.
+This will very likely prevent development progressing at the required rate.
+
+_Mitigating Actions_  
+A solution is currently unknown. We must continue discussing the situation to find a solution or alternative testing procedure.
+
+
 #### _Risk:_ [_Poor communication_](https://cseejira.essex.ac.uk/browse/A293011-100) 
 
 - [x] Likely to occur
@@ -49,7 +63,7 @@ To maintain a clear image of how the product is shaping up, it is important that
 - [x] Minor impact on project
 
 _Overview_  
-Work that is stored digitally remains at risk of loss from hardware failure, or website crashes/downtime.
+Work that is stored digitally remains at risk of loss from hardware failure or website crashes/downtime.
 
 _Mitigating Actions_  
 To minimise potential data loss, we will use gitlab as our main repository while team members will keep back-ups of work they produce (ideally using university server).
