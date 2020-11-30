@@ -21,6 +21,8 @@
 
 * This [subtask](https://cseejira.essex.ac.uk/browse/A293011-90) was assigned to Ahmad in week 8. It has 5 story points. It is about contributing to creaing the fourth document of the MVP, [Team Effort Log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/3ae1b51aca2d6cab85b3d8244ac21b70456e1bd6/MVP/MVP%20Team%20Effort%20Log.md).
 
+* This [story](https://cseejira.essex.ac.uk/browse/A293011-104) is crating a [document](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/88c810387eb909652e5f6fbe08a7617e530348eb/MVP/team01_mvp.pdf) having all links to the markdown documents in GitLab
+
 
 ## ROBERT LEEDHAM
 
