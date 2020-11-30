@@ -1,9 +1,14 @@
 # **Product Demonstration Report**
 
-As a team we have agreed to design and develop a path finder bot to monitoring temperature and humidity in indoor green house. This report will contain a brief description and demo of the product. The demo of the product will include implemention and testing codes and key aspects of the product along its devlopment cycle. With the on-going covid-19 restrictions we are not physically able to demonstrate our product. 
+As a team we have agreed to design and develop a pathfinder bot to monitoring temperature and humidity in indoor greenhouse. With the on-going covid-19 restrictions we are not physically able to demonstrate our product. We cannot create quick turn-around solution to a problems and test to see if the solution words. This is in part due to the limited time available in the schedule of session. This will have a major affect of the development and testing of our code and product. It is important to highlight this in our risk log.
 
 ## Introduction
-### Project: Path Finder for indoor green House (_for monitoring temperature and humidity in greenhouse_)
+
+This report will contain a brief description and demo of the product. The demo of the product will include implemention and testing codes and, key aspects of the product along its devlopment cycle. The product demonstration section will be recoard of the problems and solution we encountered while developing the pathfinder bot. The demonstration will include facets of a working product. 
+
+## Inital design thoughts
+
+### Project: Pathfinder for indoor green House (_for monitoring temperature and humidity in greenhouse_)
 
 Some of the importance of managing temperature and humidity in a greenhouse are: 
 
@@ -26,7 +31,7 @@ The main benefit of maintaining the temperature is a high yield of crops from a 
 
 The temperature and humidity go hand in hand as changing the temperature can change the humidity. There is no perfect temperature and humidity that fits all plants. It is important to find out the ideal temperature and humidity for a given crop. 
 
-In an indoor greenhouse farms some of the methods used to control the temperature and humidity are fans, heaters, vents, shading cloth and fog machines. Our project proposal is a path finder vehicle that patrols around the greenhouse constantly monitoring temperature and humidity to ensure that there is no microclimate and the temperature is equally distributed around the greenhouse. The pathfinder will use sophisticated temperature and humidity sensor to record and compare with a reference values. If there is a huge temperature and humidity deviation the temperature, humidity location and time will be flagged. Furthermore as the project develops a networking stack will be used to control the temperature of the greenhouse.  
+In an indoor greenhouse farms some of the methods used to control the temperature and humidity are fans, heaters, vents, shading cloth and fog machines. Our project proposal is a pathfinder bot that patrols around the greenhouse constantly monitoring temperature and humidity to ensure that there is no microclimate and the temperature is equally distributed around the greenhouse. The pathfinder will use sophisticated temperature and humidity sensor to record and compare with a reference values. If there is a huge temperature and humidity deviation the temperature, humidity location and time will be flagged. Furthermore as the project develops a networking stack will be used to control the temperature of the greenhouse.  
 
 
 #### Case study: 
@@ -39,26 +44,24 @@ The case studies above are a great example of where are project is focused on. G
 
 #### Application: 
 
-The greenhouse crop we have decided to focuses on is strawberries as it is a high desired crop recognized for their juicy flavor, deep scarlet colour and nutritional benefits. Strawberries are true local summer fruit and require a string of cool temperature to flower and hot, humid temperature to develop and constate their sweetness. They are widely used in desserts and dried breakfast cereal. They are a perfect example of a crop which is grown all year around in indoor greenhouse to meet the demand. To increase their sweetness the daytime temperature needs to be 24C  and the night temperature 13C. Cool night temperature allows the fruit to develop their flavor and hot day time temperature concentrate the flavor. The humidity need to be 60% to 75%, as it benefits the nutrition of the fruit [2]. Temperature and humidity is not the only factors which affects the growth of the fruit. Good quality soil is needed to increase its calcium uptake and sunlight is needed for photosynthesis to develop the deep scarlet colour. Temperature and humidity are importation to make sure that the crop can be grown all year around in an indoor green house. 
+The greenhouse crop we have decided to focuses on is strawberries as it is a high desired crop recognized for their juicy flavor, deep scarlet colour and nutritional benefits. Strawberries are true local summer fruit and require a string of cool temperature to flower and hot, humid temperature to develop and constate their sweetness. They are widely used in desserts and dried breakfast cereal. They are a perfect example of a crop which is grown all year around in indoor greenhouse to meet the demand. To increase their sweetness the daytime temperature needs to be 24 degrees Celsius  and the night temperature 13 degrees Celsius. Cool night temperature allows the fruit to develop their flavor and hot day time temperature concentrate the flavor. The humidity need to be 60% to 75%, as it benefits the nutrition of the fruit [2]. Temperature and humidity is not the only factors which affects the growth of the fruit. Good quality soil is needed to increase its calcium uptake and sunlight is needed for photosynthesis to develop the deep scarlet colour. Temperature and humidity are importation to make sure that the crop can be grown all year around in an indoor green house. 
 
 ## Demonstration
 
-### Inital design thoughts
+As a group we thought about some of the components we may require to achieve a pathfinder project. We came up a list and a purpose of each component.  
 
-When devloping a product it is important to highlight the key aspects such as, what is needed to make the path finder move around the greenhouse and how it will record the temperature and humidity. 
+The list of components to be used to devlope the pathfinder bot: 
+- A line follower (to to detect the lines on the floor). 
+- H-bridge (to drive the motors). 
+- 2 motors (to drive the bot). 
+- Temperature and humidity sensor (to recoard te and humidity). 
+- Push button switch (to execute and pause the mbed program). 
+- LCD diaplay (to display the current temperature and humidity recoarded by the sensor, and the coordinates of the robot). 
 
-As a group we discussion about using various sensor to 
+We used the component list we created a rough sketch of what out circuit might look like:
 
-The path finder uses:
-- a line follower (to to detect the lines on the floor)
-- H-bridge (to drive the motors)
-- 2 motors
-- temperature and humidity sensor
-- push button switch (to execute and pause the mbed program)
+<img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
 
-Using the component list we created a rough sketch of what out circuit might look like:
-
-<img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="750" height="500">
 
 ## Reference
 
