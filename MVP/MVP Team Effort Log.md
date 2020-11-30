@@ -84,3 +84,6 @@
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-17) assigned to Hamad in week 4, which estimate of 2 story points. The task was about set up an account in Mbed platform and know-how to compile a program in Mbed software.
 
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-25) assigned to Hamad in week 4, which has 10 story points. The task was researching and writing a one-page description of three protocols [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Hamad%20Al-Marri/Description_of_SPI.pdf), [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Hamad%20Al-Marri/Description_of_I2C.pdf) and [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Hamad%20Al-Marri/Description_of_PWM.pdf).
+
+### sprint 2 (week 5 and 6)
+* The task was about watching video tutorials and be familiar with  Eagle PCD software.  Also, Install the software on my computer. [This story](https://cseejira.essex.ac.uk/browse/A293011-39) assigned in week 5 and has 3 story points.
