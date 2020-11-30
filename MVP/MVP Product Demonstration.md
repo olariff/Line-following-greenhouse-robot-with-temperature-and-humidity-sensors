@@ -31,7 +31,7 @@ The main benefit of maintaining the temperature is a high yield of crops from a 
 
 The temperature and humidity go hand in hand as changing the temperature can change the humidity. There is no perfect temperature and humidity that fits all plants. It is important to find out the ideal temperature and humidity for a given crop. 
 
-In an indoor greenhouse farms some of the methods used to control the temperature and humidity are fans, heaters, vents, shading cloth and fog machines. Our project proposal is a pathfinder bot that patrols around the greenhouse constantly monitoring temperature and humidity to ensure that there is no microclimate and the temperature is equally distributed around the greenhouse. The pathfinder will use sophisticated temperature and humidity sensor to record and compare with a reference values. If there is a huge temperature and humidity deviation the temperature, humidity location and time will be flagged. Furthermore as the project develops a networking stack will be used to control the temperature of the greenhouse.  
+In an indoor greenhouse farms some of the methods used to control the temperature and humidity are fans, heaters, vents, shading cloth and fog machines. Our project proposal is a pathfinder bot that patrols around the greenhouse constantly monitoring temperature and humidity to ensure that there is no microclimate and the temperature is equally distributed around the greenhouse. The pathfinder will use sophisticated temperature and humidity sensor to record and compare with a reference values. If there is a huge temperature and humidity deviation the temperature, humidity location and time will be flagged. 
 
 
 #### Case study: 
@@ -60,7 +60,10 @@ The list of components to be used to devlope the pathfinder bot:
 
 We used the component list we created a rough sketch of what out circuit might look like:
 
-<img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
+<p align="center">
+  <img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
+</p>
+Figure 1: Basic inital design of the circuit created in [Fritzing](https://fritzing.org) CAD software. 
 
 
 ## Reference
