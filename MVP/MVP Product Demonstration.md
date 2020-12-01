@@ -67,6 +67,13 @@ Figure 1: Basic inital design of the circuit created in [Fritzing](https://fritz
 
 Figure 1 shows a inital breadboard design of the components we place to use. The design takes in input from the three line followers which will be attached to the front of the cars chassis facing the floor in a row configuration. A line follower is a infrared black and white colour sensor which, measures the amount of infrared light reflecting back from a surface. There is a less light reflecting from a black surface and a white one. If all the line followers read a black colour on the floor send control command to the H-bridge to move the motors accordingly. We have decided to use three line follower sensor to get an accurate reading and to make sure the sensor doesn't confuse an object on the floor for a black line. The temperature and humidity sensor in the middle of the board writes to the analogue inputs on the mbed microcontroller. This data is compared with the reference temperature and humidity. A push button, left of the temperature and humidity sensor is used for debugging, pushing the button once runs the program and a second push pause the code. 
 
-##### Basic outline of the code:
+#### Basic outline code:
+
+The code below is our implementation of making the car move forward and backwards and, Steer left and right. 
+
+##### Move forward and backwards: 
+
+
+##### Steer left and right: 
         
 
