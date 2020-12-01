@@ -86,10 +86,7 @@
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-25) assigned to Hamad in week 4, which has 10 story points. The task was researching and writing a one-page description of three protocols [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Hamad%20Al-Marri/Description_of_SPI.pdf), [I2C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Hamad%20Al-Marri/Description_of_I2C.pdf) and [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Hamad%20Al-Marri/Description_of_PWM.pdf).
 
 ### sprint 2 (week 5 and 6)
-* [This story](https://cseejira.essex.ac.uk/browse/A293011-51) was assigned in week 5 and worth 7 story points. It was about reading some tutorials to get familiarise with Eagle PCB software.
-
-* [This story](https://cseejira.essex.ac.uk/browse/A293011-63) has been done successfully but not on time it was uploaded on GitLab in week 7 which estimate of 10 story points. This task was about doing several challenges that ask for using Mbed simulator. Some codes were given to know the concept how it works and understand it. The codes given was about SPI, I2C and PWM. Document written in [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf) shows how these protocols work in Mbed.
-* [This story](https://cseejira.essex.ac.uk/browse/A293011-63) has been done successfully but not on time it was uploaded on GitLab in week 7. It was assigned in week 6 which estimate of 10 story points. This task was about doing several challenges that ask for using Mbed simulator. Some codes were given to know the concept how it works and understand it. The codes given was about SPI, I2C and PWM. Document written in [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf) shows how these protocols work in Mbed.
+* The task was about watching video tutorials and be familiar with  Eagle PCD software.  Also, Install the software on my computer. [This story](https://cseejira.essex.ac.uk/browse/A293011-39) assigned in week 5 and has 3 story points.
 
 ## Sheriff Oladunjoye
 ### Sprint 1 (week 3 and 4)
@@ -105,3 +102,6 @@
 * This [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-42?filter=doneissues) required watching and studying the Eagle PCB tutorials and was assigned 7 story points.
 
 ### Sprint 3 (week 7 and 8) 
+* This [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-89?filter=allopenissues) requires the individual effort log of each team member to be completed.
+
+* This [task]() was carried out during our regular meeting time and compiling and testing the codes on mbed compiler and uploading the [bin files](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Sheriff#) of these codes.
