@@ -1,0 +1,29 @@
+#include "mbed.h"
+
+PwmOut steering(p21);
+// Steering expects -1 (left) to +1 (right)
+void Steering(float s) 
+{
+    s=s+1;
+    if (s>=0 && s<=2)  steering.pulsewidth(s/2000+0.001);// 0.002 right / 0.0015 center / 0.001 left
+}
+int main() { 
+    steering.period(0.02);
+    Steering(0); // centre steering 
+    wait(0.5);
+    while(1) 
+    {
+        for(int i=0; i<100; i++) {       // moving from centre to full right
+            Steering(i/100.0);
+            wait(0.1);
+        }
+        for(int i=100; i>-100; i--) {    // moving from full right to full left
+            Steering(i/100.0);
+            wait(0.1);
+        }
+        for(int i=-100; i<0; i++) {      // moving from full left to centre
+            Steering(i/100.0);
+            wait(0.1);
+        }
+    }
+}
