@@ -72,8 +72,8 @@ Figure 1 shows a inital breadboard design of the components we place to use. The
 The code below is our implementation of making the car move forward and backwards and, Steer left and right. 
 
 ##### Move forward and backwards: 
-
+This [document](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/17a4ca8d1c30c82ef0c9a77ac1d7830bf7b7c1d2/Week_8_Challenges/Ahmad/Car_Velocity_Code) shows the code which makes the car to move forward and backward in different speeds. It starts by letting the car to increase it speed from 0 to 5% of the full speed in the forward direction. After that, the car starts decreasing its speed to 0 again. Once the car speed reaches zero, the direction of the car changes to reverse. The car increases its speed to reach 5% of the full speed. Finally, the car decreases its speed to zero. 
 
 ##### Steer left and right: 
-        
+This [document](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/17a4ca8d1c30c82ef0c9a77ac1d7830bf7b7c1d2/Week_8_Challenges/Ahmad/Car_Steering_code) shows the code which makes the car to steer right and left in different angles. It stars by moving from center to full right, then it steers in the other direction to reach the center position and the full left position. Finally, the car returns to its center position.
 
