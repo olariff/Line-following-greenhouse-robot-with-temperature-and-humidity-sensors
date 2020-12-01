@@ -114,3 +114,45 @@
 * This [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-89?filter=allopenissues) requires the individual effort log of each team member to be completed.
 
 * This [task](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-74?filter=doneissues) was carried out during our regular meeting time and compiling and testing the codes on mbed compiler and uploading the [bin files](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Sheriff#) of these codes. This was assigned to 6 story points.
+
+
+
+## HARSH PATEL
+
+### Sprint 1 (week 3 and 4)
+
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-8) was about learning and getting used to the command-line for git. This involved commands to push, pull, editing and commiting files. This was worth 2 story points and it took me 4 hours to complete.
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-8) involved following the given instructions. The first part was to create a mbed account with the correct username. After the account had been created we familiarised ourselfs with the mbed simulator and compiler.
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-30) was worth 10 story points and the set task was to research and write a one-page description of [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Harsh%20Patel/Serial_Peripheral_Interface.pdf), [PWM](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Harsh%20Patel/Pulse_Width_Modulation.pdf) and [I2c](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Harsh%20Patel/Inter-Integrated_Circuit.pdf) these documents have been uploaded to gitlab.
+
+
+### Sprint 2 (week 5 and 6)
+
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-38) was worth 7 story points and was sub-tasked to each member of the team. The task involved watching a video that was a tutorial about the EAGLE software.
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-50) was worth 7 story points and was sub-tasked to each member of the team. The task involved following the given tutorials about the EAGLE software. This task took 3 hours to accomplish.
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-54) was worth 3 story points and was sub-tasked to each member of the team. This task was to install the CadSoft EAGLE PCB software on our own personal machine. This task too me 2 hours to accomplish.
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-59) was worth 10 story points. The task has multiple parts to it; Firstly the video about a breadboard had to be watched, this video explained how to use one. Then on the Mbed simulator the demos for PwmOut and PwmSpeaker were ran to understand in further detail how to code using PWM and to see it in action and a [short observation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Harsh/Week_6.pdf) was recorded on the given code, this process was also followed for LCD display and Temperature/Humidity demos and a [short observation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Harsh/Week_6.pdf) was made. There was also a short discussion on the components and modules we would require for this project.
+
+
+
+### Sprint 3 (week 7 and 8)
+
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-72) was worth 6 story points and was carried out during the weekly meeting, it involved using the mbed compiler to create [.bin](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Harsh%20Patel) files of PWM, SPI and I2C.
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-78) was worth 2 points and the burndown charts have to be incoprated into the [Project Management Log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Project%20Management%20Log.md) .
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-93) worth 5 points was to update the [team effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Team%20Effort%20Log.md) .
+
+
+
+
+
+
