@@ -60,9 +60,9 @@ The list of components to be used to devlope the pathfinder bot:
 
 We used the component list we created a rough sketch of what out circuit might look like:
 
-<p align="center">
-  <img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
-</p>
+
+<img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
+
 Figure 1: Basic inital design of the circuit created in [Fritzing](https://fritzing.org) CAD software.      
 
 Figure 1 shows a inital breadboard design of the components we place to use. The design takes in input from the three line followers which will be attached to the front of the cars chassis facing the floor in a row configuration. A line follower is a infrared black and white colour sensor which, measures the amount of infrared light reflecting back from a surface. There is a less light reflecting from a black surface and a white one. If all the line followers read a black colour on the floor send control command to the H-bridge to move the motors accordingly. The temperature and humidity sensor in the middle of the board writes to the analogue inputs on the mbed microcontroller. This data is compared with the reference temperature and humidity. 
