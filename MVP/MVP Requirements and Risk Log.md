@@ -72,7 +72,29 @@ To minimise potential data loss, we will use gitlab as our main repository while
 
 ## Requirements
 
-Project requirements are a set of conditions and tasks that must be completed to ensure the success and completion of a project. The requirements paint a clearer picture of the objectives and what needs to be done. Benefits of gathering and listing out project requirements include but is not limited to reducing cost, increased project success rates, improved project management, improved communication between team members.
+Project requirements are a set of conditions and tasks that must be completed to ensure the success and completion of a project. The requirements paint a clearer picture of the objectives and what needs to be done. Benefits of gathering and listing out project requirements include, but is not limited to reducing cost, increased project success rates, improved project management, improved communication between team members.
 
+There are two types of requirements: business requirements & technical requirements.
+Business requirements refer to and define what needs to be done after the project is successfully completed.
+Technical requirements define the solutions and methods on how the project objectives can be satisfied.
 
+---
 
+#### Business requirements
+
+* Reach out to target consumers, mostly greenhouse farms, hospitals, food establishments, or any organisation that may require an autonomous bot.
+* Improve organisations' work efficiency.
+* Further research and development to improve the product or to reduce production cost.
+* Organisations save manpower & staffing costs when they implement the autonomous bot, which in turn may reduce the cost of their public services.
+
+---
+
+#### Technical requirements
+
+_Components required:_
+* MBED LPC1786 board
+* Line sensor/line follower (to find & detect lines on the ground)
+* H bridge/navigation stack (used to power and drive the motors)
+* Temperature & humidity sensor
+* Reset push button (to execute or pause the program)
+* LCD display (displays the temperature and humidity)
