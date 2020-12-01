@@ -92,7 +92,10 @@
 
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-63) has been done successfully but not on time it was uploaded on GitLab in week 7.it was assigned in week 6 which estimate of 10 story points. This task was about doing several challenges that ask for using Mbed simulator. Some codes were given to know the concept how it works and understand it. The codes given was about SPI, I2C and PWM. Document written in [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf) shows how these protocols work in Mbed.
 
-### sprint 3 (week 7 and 6)
+### Sprint 3 (week 7 and 6)
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-71) was assigned in week 7, which has 6 story points. This task is related to what we did in Week 6 and it was asked to use Mbed compiler to compile and test codes given and upload the bin files to [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf).
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-85) requires complete  the last section of MVP document individually  which is [team effort log]  
 
 ## Sheriff Oladunjoye
 ### Sprint 1 (week 3 and 4)
