@@ -91,7 +91,7 @@
 
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-51) was assigned in week 5 and worth 7 story points. It was about reading some tutorials to get familiarise with Eagle PCB software.
 
-* [This story](https://cseejira.essex.ac.uk/browse/A293011-63) has been done successfully but not on time it was uploaded on GitLab in week 7 which estimate of 10 story points. This task was about doing several challenges that ask for using Mbed simulator. Some codes were given to know the concept how it works and understand it. The codes given was about SPI, I2C and PWM. Document written in [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf) shows how these protocols work in Mbed.
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-63) has been done successfully but not on time it was uploaded on GitLab in week 7. It was assigned in week 6 which estimate of 10 story points. This task was about doing several challenges that ask for using Mbed simulator. Some codes were given to know the concept how it works and understand it. The codes given was about SPI, I2C and PWM. Document written in [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf) shows how these protocols work in Mbed.
 
 ### sprint 3 (week 7 and 8)
 
