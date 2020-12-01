@@ -61,7 +61,7 @@ The list of components to be used to devlope the pathfinder bot:
 We used the component list we created a rough sketch of what out circuit might look like:
 
 
-<img src="MVP/images/circuit_design.png" alt="Basic outline of the circuit" width="575" height="350">
+<img src="MVP/images/Basic_Circuit_design.png" alt="Basic outline of the circuit" width="700" height="550">
 
 Figure 1: Basic inital design of the circuit created in [Fritzing](https://fritzing.org) CAD software.      
 
