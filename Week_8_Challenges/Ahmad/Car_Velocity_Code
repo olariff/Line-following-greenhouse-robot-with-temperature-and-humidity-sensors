@@ -1,0 +1,46 @@
+#include "mbed.h"
+
+PwmOut velocity(p22);
+
+float vo=0;
+// Velocity expects -1 (reverse) to +1 (forward)
+void Velocity(float v) {
+    v=v+1;
+    if (v>=0 && v<=2) {
+        if (vo>=1 && v<1) {                 //
+            velocity.pulsewidth(0.0014);    // this is required to
+            wait(0.1);                      //
+            velocity.pulsewidth(0.0015);    // move into reverse
+            wait(0.1);                      //
+        }                                   //
+        velocity.pulsewidth(v/2000+0.001);
+        vo=v;
+    }
+}
+
+int main() { 
+    velocity.period(0.02);
+    Velocity(0); // initiate the drive motor (this must be done)
+    wait(0.5);
+
+    while(1)
+     {
+        for(int i=0; i<5; i++) { // moving forward from 0% to 5% of full speed
+            Velocity(i/100.0);
+            wait(2); // each step 2 sec, total of 10 sec
+        }
+        
+        for(int i=5; i>-5; i--) { // braking from forward to stop
+            Velocity(i/100.0);  // and moving to reverse up to 5% of full speed  
+            wait(2); // each step 2 sec, total of 20 sec
+        }
+
+        for(int i=-5; i<0; i++) { // braking from reverse to stop
+            Velocity(i/100.0);
+            wait(2); // each step 2 sec, total of 10 sec
+        }
+
+        Velocity(0.05); // try to keep cnostant speed at 5% of the full speed
+            wait(5);        // for 5 sec
+    }
+}
