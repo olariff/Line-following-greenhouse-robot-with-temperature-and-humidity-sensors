@@ -70,9 +70,9 @@ To minimise potential data loss, we will use gitlab as our main repository while
 
 ---
 
+## Requirements
 
-
-
+Project requirements are a set of conditions and tasks that must be completed to ensure the success and completion of a project. The requirements paint a clearer picture of the objectives and what needs to be done. Benefits of gathering and listing out project requirements include but is not limited to reducing cost, increased project success rates, improved project management, improved communication between team members.
 
 
 
