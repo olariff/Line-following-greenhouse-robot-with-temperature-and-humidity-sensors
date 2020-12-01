@@ -95,7 +95,7 @@
 ### Sprint 3 (week 7 and 6)
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-71) was assigned in week 7, which has 6 story points. This task is related to what we did in Week 6 and it was asked to use Mbed compiler to compile and test codes given and upload the bin files to [Gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_6_Documents/Hamad/Week_6_Challenges_Hamad.pdf).
 
-* [This story](https://cseejira.essex.ac.uk/browse/A293011-85) requires complete  the last section of MVP document individually  which is [team effort log]  
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-85) requires complete  the last section of MVP document individually  which is [team effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Team%20Effort%20Log.md).
 
 ## Sheriff Oladunjoye
 ### Sprint 1 (week 3 and 4)
