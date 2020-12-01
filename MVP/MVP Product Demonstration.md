@@ -47,7 +47,7 @@ The case studies above are a great example of where are project is focused on. G
 The greenhouse crop we have decided to focuses on is strawberries as it is a high desired crop recognized for their juicy flavor, deep scarlet colour and nutritional benefits. Strawberries are true local summer fruit and require a string of cool temperature to flower and hot, humid temperature to develop and constate their sweetness. They are widely used in desserts and dried breakfast cereal. They are a perfect example of a crop which is grown all year around in indoor greenhouse to meet the demand. To increase their sweetness the daytime temperature needs to be 24 degrees Celsius  and the night temperature 13 degrees Celsius. Cool night temperature allows the fruit to develop their flavor and hot day time temperature concentrate the flavor. The humidity need to be 60% to 75%, as it benefits the nutrition of the fruit. Temperature and humidity is not the only factors which affects the growth of the fruit. Good quality soil is needed to increase its calcium uptake and sunlight is needed for photosynthesis to develop the deep scarlet colour. Temperature and humidity are importation to make sure that the crop can be grown all year around in an indoor green house. 
 
 ## Demonstration
-
+### Inital Design
 As a group we thought about some of the components we may require to achieve a pathfinder project. We came up a list and a purpose of each component.  
 
 The list of components to be used to devlope the pathfinder bot: 
