@@ -90,4 +90,6 @@
 
 ## Sheriff Oladunjoye
 ### Sprint 1 (week 3 and 4)
+* This [link](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-1?filter=doneissues) displays the completed task on jira, that required team 1 to get familiar with editing, pushing and pulling a [file](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_3_Documents/collaboration.txt) from both the local command line and that online on gitlab. This task was worth 3 story points. 
 
+* 
