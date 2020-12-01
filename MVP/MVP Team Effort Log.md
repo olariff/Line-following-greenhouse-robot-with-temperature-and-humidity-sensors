@@ -75,7 +75,7 @@
 
 * [This jirs story](https://cseejira.essex.ac.uk/browse/A293011-70) was carried out in week 7 during the scrum meeting. It involved analysing the codes for PWM, SPI and I2C and, using the mbed compiler to create [.bin files](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_7_Challenges/Sagar%20Kandel/Team01.zip), which were sent to the module advisor to test out. We observed the testing on screen on Zoom meeting.
 
-* [This jira story](https://cseejira.essex.ac.uk/browse/A293011-76) was to create a parts list for suitable components will be using to create the pathfinder. It involved analysing requirements to determin what we might need to compleate our design. This story is worth 5 story points and the pathfinder parts list can be found on [GitLab](). 
+* [This jira story](https://cseejira.essex.ac.uk/browse/A293011-76) was to create a parts list for suitable components will be using to create the pathfinder. It involved analysing requirements to determin what we might need to compleate our design. This story is worth 5 story points and the pathfinder parts list can be found on [GitLab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Project%20Order%20List/Team_01_Project_Order_Form.xls). 
 
 ## Hamad Al-Marri
 ### Sprint 1 (week 3 and 4)
