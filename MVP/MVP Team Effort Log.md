@@ -104,4 +104,4 @@
 ### Sprint 3 (week 7 and 8) 
 * This [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-89?filter=allopenissues) requires the individual effort log of each team member to be completed.
 
-* This [task]() was carried out during our regular meeting time and compiling and testing the codes on mbed compiler and uploading the [bin files](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Sheriff#) of these codes.
+* This [task](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-74?filter=doneissues) was carried out during our regular meeting time and compiling and testing the codes on mbed compiler and uploading the [bin files](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Sheriff#) of these codes. This was assigned to 6 story points.
