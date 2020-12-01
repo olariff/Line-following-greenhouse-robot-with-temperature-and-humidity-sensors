@@ -16,13 +16,10 @@
 
 ### Sprint 3 (Week 7 and 8)
 * This [link](https://cseejira.essex.ac.uk/browse/A293011-68) is for one the issues in week 7 which has 6 story points. Ahmad has completed this task by compiling and testing three codes in mbed compiler and uploaded the .bin files to [GitLab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Ahmad).
-
 * This [story](https://cseejira.essex.ac.uk/browse/A293011-87) was assigned to Ahmad in week 8. It has 5 story points. This story was about creating the discussion section of the Project Management Log for the MVP. This is [link](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/commit/95618ed755517b200ce90401915c32f6b84f746a) to the work done by Ahmad.
-
 * This [subtask](https://cseejira.essex.ac.uk/browse/A293011-90) was assigned to Ahmad in week 8. It has 5 story points. It is about contributing to creaing the fourth document of the MVP, [Team Effort Log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/3ae1b51aca2d6cab85b3d8244ac21b70456e1bd6/MVP/MVP%20Team%20Effort%20Log.md).
-
 * This [story](https://cseejira.essex.ac.uk/browse/A293011-104) is crating a [document](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/88c810387eb909652e5f6fbe08a7617e530348eb/MVP/team01_mvp.pdf) having all links to the markdown documents in GitLab
-
+* This [story](https://cseejira.essex.ac.uk/browse/A293011-107) was about editing the two codes for control the speed, angle and direction of the car. It has 10 story points and the evidence has been uploaded to [The Team Repository](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_8_Challenges/Ahmad)
 
 ## ROBERT LEEDHAM
 
