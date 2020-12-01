@@ -95,3 +95,10 @@
 * I was also required to create an mbed account in order to get familiar with how mbed and its compiler works. This was worth 2 [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-15?filter=doneissues) points.
 
 * Another task completed during this sprint was the [research](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-33?filter=doneissues) and one page written description of [PMW](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sheriff/PULSE_WIDTH_MODULATION.pdf), [12C](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sheriff/I2C.pdf) and [SPI](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Week_4_Documents/Sheriff/SERIAL_PERIPHERAL_INTERFACE.pdf). I also revised my understanding of diodes, LEDs and npn transistors. This took me about 24 hours to complete.
+
+### Sprint 2 (week 5 and 6)
+* This [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-43?filter=doneissues) required for me to intall CadSoft Eagle PCB software onto my computer system. This was sucessfully carried out and was assigned 3 story points.
+
+* This [story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-42?filter=doneissues) required watching and studying the Eagle PCB tutorials and was assigned 7 story points.
+
+### Sprint 3 (week 7 and 8) 
