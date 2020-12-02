@@ -8,4 +8,4 @@
 
 * The team members are using the Jira software as the method of communication. However, due to the current situation of the pendamic, all meeting are restricted to be only virtual using zoom meetings. This is considered one of the obstacles the team are having during communication. The face to face meetings have an advantage over the virtual ones in some ways. The team are working hard to overcome these obstacle by exploiting the advantages of the virtual meetings in order to limit the disadvanteges of not being able to communicate in the real life.
 
-<img src="MVP/images/BurnDown_Chart_Sprint_1.jpg" alt="Burndown Chart of Sprint 1" width="1827" height="603">
+<img src="MVP/images/BurnDown_Chart_Sprint_1.jpg" alt="Burndown Chart of Sprint 1" width="1900" height="700">
