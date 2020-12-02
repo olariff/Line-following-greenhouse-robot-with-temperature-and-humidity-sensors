@@ -70,6 +70,19 @@ To minimise potential data loss, we will use gitlab as our main repository while
 
 ---
 
+#### _Risk_: [_Unforeseen work that must be done_](https://cseejira.essex.ac.uk/browse/A293011-103)
+
+- [x] Unlikely to occur
+- [x] Major impact on project
+
+_Overview_
+Not attending or paying attention during the scheduled meeting. Not reading the given task/s properly and missing out important steps.
+
+_Mitigating Actions_
+Attempt to cover the missed task/s during their own time so the scope of the project is not vastly affected. Worst case scenario escalate the issue to the project manager with a plan to resolve the issue as soon as possible.
+
+---
+
 ## Requirements
 
 Project requirements are a set of conditions and tasks that must be completed to ensure the success and completion of a project. The requirements paint a clearer picture of the objectives and what needs to be done. Benefits of gathering and listing out project requirements include, but is not limited to reducing cost, increased project success rates, improved project management, improved communication between team members.
