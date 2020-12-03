@@ -154,6 +154,30 @@
 
 
 
+## Darrel Widjaja
+
+### Sprint 1 (Week 3 & 4)
+
+* [This story](https://cseejira.essex.ac.uk/browse/A293011-6) was to learn and familiarise with git commands by watching an instruction video and attempting a quiz. It was worth 2 story points and took 2 hours to complete.
+
+* [This issue](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-15) was to create and mbed account and to familiarise with the mbed compiler and simulator.
+
+* [This story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-32) was to research and study about SPI, PWM, and I2C and write a one page description about each topic. It was also required to revise about LEDs and diodes and NPN transistors. These documents have been uploaded to [gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_4_Documents/Darrel).
 
 
 
+### Sprint 2 (Week 5 & 6)
+
+* [This sub-task](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-40) was to watch an instruction video about installing the EAGLE CAD software and familiarise with it.
+
+* [This sub-task](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-52) was to read up on a tutorial and further understanding the EAGLE CAD software. It is worth 7 story points.
+
+* [This story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-65) worth 10 story points, was to complete several challenges on Mbed simulator to further understand PWM. PwnOut and PwmSpeaker were run to observe how the PWM affects the output.
+
+
+
+### Sprint 3 (Week 7 & 8)
+
+* [This story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-73) worth 6 story points, involved creating bin files of PWM, I2C, and SPI codes using the Mbed compiler. The files are uploaded on [gitlab](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Week_7_Challenges/Darrel).
+
+* [This story](https://cseejira.essex.ac.uk/projects/A293011/issues/A293011-82) was to update the [group MVP](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Requirements%20and%20Risk%20Log.md) with the project requirements, and updating the [team effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/MVP/MVP%20Team%20Effort%20Log.md).
