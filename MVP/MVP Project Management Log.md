@@ -27,3 +27,13 @@ Figure.2. Burndown Chart of Sprint 2.
 Figure.3. Burndown Chart of Sprint 3.
 
 * In figure.3. the graph is more close to the guideline, there are tasks being assinged with deadlines during the week and not all tasks have been set to finish on the end of the sprint. There are many issues in the backlog that are also being completed within the week.
+
+---
+
+## Product backlog
+
+<img src="MVP/images/Backlog_03_12_20.jpg" alt="Backlog_03_12_20.jpg" width="1795" height="537">
+
+* Figure.1. Screen shot of the Backlog in jira as of 03/12/20 
+
+* These are the current issues in the backlog. The risks we have currently identified have been put here so we can moniter them throughtout the project.
