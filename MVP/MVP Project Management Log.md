@@ -10,7 +10,7 @@
 ---
 ### Project Reports
 
-*Throught the whole project tasks have been assigned on Jira. Currently we have 3 sprints each sprint representing two weeks, attached below are images of the burndown charts for the 3 sprints we have done so far. The use of burndown charts allows us to complete work on time as the guideline is a representation of the prediction of when work will be completed.
+* Throught the whole project tasks have been assigned on Jira. Currently we have 3 sprints each sprint representing two weeks, attached below are images of the burndown charts for the 3 sprints we have done so far. The use of burndown charts allows us to complete work on time as the guideline is a representation of the prediction of when work will be completed.
 
 <img src="MVP/images/BurnDown_Chart_Sprint_1.jpg" alt="Burndown Chart of Sprint 1" width="1827" height="603">
 Figure.1. Burndown Chart of Sprint 1.
