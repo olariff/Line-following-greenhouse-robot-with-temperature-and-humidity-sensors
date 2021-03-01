@@ -1,10 +1,17 @@
 # Product Demonstration Report
 
-(MVP)()
+This documentation continues from the [MVP product demonstration](Final_Report/MVP/MVP Product Demonstration.md) technical documentation. 
 
+---
+<img src="Final_Report/Images/circuit_design.jpg" alt="Basic outline of the circuit" width="1000" height="850">
 
-
+Figure 1: The 
 This section should contain a brief description and demo of product you have built.
+
+~~~~
+time
+~~~~
+
 
 Include screenshots (actual screenshots, not mock ups) of all of the facets of the product working.
 Link consecutive screenshots together with a brief narrative explaining how the product works, e.g. a sentence "Click on OK and it takes you to the next window", "On starting the app, the following window is shown".  This document should not take you a long time to create - it's just pasting photos and adding explanatory sentences between them, so that your MVP is adequately described.
