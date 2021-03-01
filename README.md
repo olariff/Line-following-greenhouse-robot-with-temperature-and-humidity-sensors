@@ -4,6 +4,7 @@ In a indoor strawberry farm, it is crucial to maintain a constant temperature an
 
 ### Keywords: Path Follower, Temperature, Humidity, Greenhouse
 
+
 # Table of Contents
 
 1.  [Final Product Demonstration]()
