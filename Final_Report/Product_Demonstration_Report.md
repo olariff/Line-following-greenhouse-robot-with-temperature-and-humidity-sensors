@@ -2,7 +2,6 @@
 
 This documentation continues from the [MVP product demonstration](Final_Report/MVP/MVP%20Product%20Demonstration.md) technical documentation. The MVP product demonstration illustrates a inital design thoughts behind the temperature and humidity monitoring line follower. The documentation describes a outline of the project and highlights the groups inital thought process behined designing the line follower.  
 
----
  ## Introduction 
 
 The project is a temperature and humidity monitoring line follower which, is set to follow a black line painted on the floor in a indoor strawberry farm and, constantly record temperature and humidity. The objective of the robot is to monitor temperature and humidity around the farm to avoide microclimate. It is important that the temperature and humidity is equally distributed throughout the greenhouse for optimal growth of crops. In a event the line follower detects abnormal temperature and humidity it will stop and sound the speaker. The robot will stop and sound the speaker, in instant it detects an object in front of it. It sounds the speaker to inform the workers to clear the path. 
@@ -14,7 +13,8 @@ The design concept of the temperature and humidity monitoring line follower is i
 
 Figure 1: Light is reflected from white surface and black surace absorbes light.  
 
-The line follower uses a IR sensor with a transmitter (Tx) and a receiver (Rx) (the receiver (Rx) is a photodiode). The transmitter (Tx) shines infrared light onto a surface and the receiver (Rx) recoard the infrared light reflected back. When the infrared light shines onto a white surface, most of the light reflects back generated high voltage in the receiver (Rx). When the infrared light shines onto a black surface, most of the light is absorbed which, generated low voltage in the receiver (Rx). In case, the voltage at the input is above a threshold voltage, this will indicate a white surface in field of view and will be interpreted as logic 1. If the voltage is below a threshold voltage this will indicate a black surface in field of view and will be interpreted as logic 0. This concept is used as the bases of allowing the line follower robot to detect the black line on the floor of the greenhouse. 
+
+The line follower uses a IR sensor with a transmitter (Tx) and a receiver (Rx) (the receiver (Rx) is a [photodiode](https://www.electronicshub.org/photodiode-working-characteristics-applications/)). The transmitter (Tx) shines infrared light onto a surface and the receiver (Rx) recoard the infrared light reflected back. When the infrared light shines onto a white surface, most of the light reflects back generated high voltage in the receiver (Rx). When the infrared light shines onto a black surface, most of the light is absorbed which, generated low voltage in the receiver (Rx). In case, the voltage at the input is above a threshold voltage, this will indicate a white surface in field of view and will be interpreted as logic 1. If the voltage is below a threshold voltage this will indicate a black surface in field of view and will be interpreted as logic 0. This concept is used as the bases of allowing the line follower robot to detect the black line on the floor of the greenhouse. 
 
 |  |  |
 | ------ | ------ |
@@ -23,22 +23,19 @@ The line follower uses a IR sensor with a transmitter (Tx) and a receiver (Rx) (
 | <img src="Final_Report/Images/turn_right.jpeg" alt="Turn right" width="550" height="500">  | <img src="Final_Report/Images/ultrasonic_design.jpeg" alt="Turn right" width="600" height="450">  |
 | Figure 4: Line follower turns right if the right IR sensor no black line and left IR sensor on white surface. | Figure 5: Line follower stops and sounds the speaker of its path is obstrusted. |
 
-The robot uses two IR light sensor to steer. When the left and the right IR sensors are both on white surfaces the input voltage from the sensord is above the threshold, the robot moves foward in a stright line. If the output voltage left IR sensor is below the threshold and the voltage from the right IR sensor is above the threshold the robot turns left to keep in track with the black line. In a instant, the output voltage from the right IR sensor is below the threshold voltage and the output fron the left sensor is above the threshold voltage the robot turns right. 
+The robot uses two IR light sensor to steer (left IR sensor and right IR sensor). When the left and the right IR sensors are both on white surfaces the input voltage from the sensord is above the threshold, the robot moves foward in a stright line. If the output voltage left IR sensor is below the threshold voltage and the voltage from the right IR sensor is above the threshold voltage, the robot turns left to keep in track with the black line. In a instant, the output voltage from the right IR sensor is below the threshold voltage and the output from the left sensor is above the threshold voltage the robot turns right. (Note: The IR sensor on a black surface/line will produce a lower voltage than the threshold voltage. IR sensor on a white surface will produce a higher voltage than the threshold voltage). IR sensors was a used to steer the car as the alternative option to steer the are was to use multiple cameras to keep the robot in track (on the black line). The concept of using the cameras was incomprehendible as it would require image processing to steer the car. Teaching the robot to preform image processing to find the black line is complicated, thus, increase the complexity of the program. With no prior knowledge of image processing from any of the group members, using photodiode was the best solution for this project. 
 
+The line follower use a ultrasonic sensor to detect obstacles in front of it. If it's path is blocked, the robot will stop and sound an alarm. The ultrasonic sensor measures the distance by using ultrasonic waves. The sensor emites an ultrasonic wave and measures the time it takes to receiv the reflected waves. The ultrasonic sensor measures the distance of the object in front of it's field of view. 
 
+--- 
 
 ## Implementation Description
-
-
-
 
 <img src="Final_Report/Images/circuit_design.jpg" alt="Basic outline of the circuit" width="1000" height="850">
 
 
 Figure 1: The 
 This section should contain a brief description and demo of product you have built.
-
-
 
 Include screenshots (actual screenshots, not mock ups) of all of the facets of the product working.
 Link consecutive screenshots together with a brief narrative explaining how the product works, e.g. a sentence "Click on OK and it takes you to the next window", "On starting the app, the following window is shown".  This document should not take you a long time to create - it's just pasting photos and adding explanatory sentences between them, so that your MVP is adequately described.
