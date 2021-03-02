@@ -15,11 +15,11 @@ The design concept of the temperature and humidity monitoring line follower is i
 <img src="Final_Report/Images/IR_sensor.jpeg" alt="IR sensor illustration" width="450" height="650">
 
 
-<img src="Final_Report/Images/move_foward.jpeg" alt="Move forward" width="800" height="650">
+|  |  |
+| ------ | ------ |
+| <img src="Final_Report/Images/move_foward.jpeg" alt="Move forward" width="500" height="450"> | <img src="Final_Report/Images/turn_left.jpeg" alt="Turn left" width="500" height="450"> |
+| <img src="Final_Report/Images/turn_right.jpeg" alt="Turn right" width="550" height="500"> | <img src="Final_Report/Images/ultrasonic_design.jpeg" alt="Turn right" width="600" height="450">|
 
-<img src="Final_Report/Images/turn_left.jpeg" alt="Turn left" width="800" height="650">
-
-<img src="Final_Report/Images/turn_right.jpeg" alt="Turn right" width="800" height="650">
 
 
 ## Implementation description
