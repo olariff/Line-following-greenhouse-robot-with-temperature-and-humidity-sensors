@@ -1,34 +1,39 @@
 # Product Demonstration Report
 
-This documentation continues from the [MVP product demonstration](Final_Report/MVP/MVP Product Demonstration.md) technical documentation. The MVP product demonstration illustrates a inital design thoughts behind the temperature and humidity monitoring line follower. The documentation describes a outline of the project and highlights the groups inital thought process behined designing the line follower.  
+This documentation continues from the [MVP product demonstration](Final_Report/MVP/MVP%20Product%20Demonstration.md) technical documentation. The MVP product demonstration illustrates a inital design thoughts behind the temperature and humidity monitoring line follower. The documentation describes a outline of the project and highlights the groups inital thought process behined designing the line follower.  
 
 ---
  ## Introduction 
 
 The project is a temperature and humidity monitoring line follower which, is set to follow a black line painted on the floor in a indoor strawberry farm and, constantly record temperature and humidity. The objective of the robot is to monitor temperature and humidity around the farm to avoide microclimate. It is important that the temperature and humidity is equally distributed throughout the greenhouse for optimal growth of crops. In a event the line follower detects abnormal temperature and humidity it will stop and sound the speaker. The robot will stop and sound the speaker, in instant it detects an object in front of it. It sounds the speaker to inform the workers to clear the path. 
 
-## Design description
+## Design Description
 The design concept of the temperature and humidity monitoring line follower is infrared (IR) sensors are used to detect the black line on a white floor of the greenhouse. IR sensor measures infrared light radiated from a object in its field of view. The infrared light radiated from a black and white surface is different. When light is reflected on a white surface, most of the light is reflected back, while, a light reflected on a black surface is completely absorbed. This concept of reflected ligh is used to build the line follower. 
-
-
 
 <img src="Final_Report/Images/IR_sensor.jpeg" alt="IR sensor illustration" width="450" height="650">
 
+Figure 1: Light is reflected from white surface and black surace absorbes light.  
+
+The line follower uses a IR sensor with a transmitter (Tx) and a receiver (Rx) (the receiver (Rx) is a photodiode). The transmitter (Tx) shines infrared light onto a surface and the receiver (Rx) recoard the infrared light reflected back. When the infrared light shines onto a white surface, most of the light reflects back generated high voltage in the receiver (Rx). When the infrared light shines onto a black surface, most of the light is absorbed which, generated low voltage in the receiver (Rx). In case, the voltage at the input is above a threshold voltage, this will indicate a white surface in field of view and will be interpreted as logic 1. If the voltage is below a threshold voltage this will indicate a black surface in field of view and will be interpreted as logic 0. This concept is used as the bases of allowing the line follower robot to detect the black line on the floor of the greenhouse. 
 
 |  |  |
 | ------ | ------ |
 | <img src="Final_Report/Images/move_foward.jpeg" alt="Move forward" width="500" height="450"> | <img src="Final_Report/Images/turn_left.jpeg" alt="Turn left" width="500" height="450"> |
-| <img src="Final_Report/Images/turn_right.jpeg" alt="Turn right" width="550" height="500"> | <img src="Final_Report/Images/ultrasonic_design.jpeg" alt="Turn right" width="600" height="450">|
+| Figure 2: Line follower moves foward if both IR sensors (left IR sensor and right IR sensor) are on white surface. | Figure 3: Line follower turns left if left IR sensor on black line and right sensor on white surface. |
+| <img src="Final_Report/Images/turn_right.jpeg" alt="Turn right" width="550" height="500">  | <img src="Final_Report/Images/ultrasonic_design.jpeg" alt="Turn right" width="600" height="450">  |
+| Figure 4: Line follower turns right if the right IR sensor no black line and left IR sensor on white surface. | Figure 5: Line follower stops and sounds the speaker of its path is obstrusted. |
+
+The robot uses two IR light sensor to steer. When the left and the right IR sensors are both on white surfaces the input voltage from the sensord is above the threshold, the robot moves foward in a stright line. If the output voltage left IR sensor is below the threshold and the voltage from the right IR sensor is above the threshold the robot turns left to keep in track with the black line. In a instant, the output voltage from the right IR sensor is below the threshold voltage and the output fron the left sensor is above the threshold voltage the robot turns right. 
 
 
 
-## Implementation description
+## Implementation Description
 
 
 
-<p align="center">
-    <img src="Final_Report/Images/circuit_design.jpg" alt="Basic outline of the circuit" width="1000" height="850">
-</p>
+
+<img src="Final_Report/Images/circuit_design.jpg" alt="Basic outline of the circuit" width="1000" height="850">
+
 
 Figure 1: The 
 This section should contain a brief description and demo of product you have built.
