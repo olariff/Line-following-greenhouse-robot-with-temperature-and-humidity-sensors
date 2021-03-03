@@ -19,6 +19,6 @@ In a indoor strawberry farm, it is crucial to maintain a constant temperature an
 
 6. 	[Product Context Report](Final_Report/Product_Context_Report.md)
 
-7.  [Product Marketing Plan]()
+7.  [Product Marketing Plan](Final_Report/Product_Marketing_Plan.md)
 
 8.  [Executable Link]()
