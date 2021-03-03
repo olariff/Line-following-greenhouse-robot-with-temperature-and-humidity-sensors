@@ -9,7 +9,7 @@ In a indoor strawberry farm, it is crucial to maintain a constant temperature an
 
 1.  [Final Product Demonstration](Final_Report/Product_Demonstration_Report.md)
 
-2.  [Project Management Log]() 
+2.  [Project Management Log](Final_Report/Project_Management_Log.md) 
 
 3.	[Team Effort Log]()
 
