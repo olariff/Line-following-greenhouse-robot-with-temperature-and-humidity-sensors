@@ -2,6 +2,15 @@
 
 AnalougeIn left_sensor(p15);
 AnalougeIn left_sensor(p16);
+PwmOut steering(p21);
+
+// Steering expects -1 (left) to +1 (right)
+void Steering(float s) {
+    s=s+1;
+    if (s>=0 && s<=2) {
+        steering.pulsewidth(s/2000+0.001);
+    }
+}
 
 void turn(float t)
 {
