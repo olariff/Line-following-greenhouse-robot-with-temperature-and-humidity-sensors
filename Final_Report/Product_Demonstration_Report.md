@@ -72,9 +72,14 @@ The left and the right IR sensors are connceted to the AnalogueIn of the mbed LC
 ---
 ---
 #### PCB Design
-The PCB design in Figure 8 follows the referance design in Figure 7. The design is created using AUTODESK [Eagle](https://www.autodesk.co.uk/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) an PCD design software. 
+The PCB design in Figure 8 and Figure 9 follows the referance design in Figure 7. The design is created using AUTODESK [Eagle](https://www.autodesk.co.uk/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) an PCD design software. 
 
-<img src="PCB_design.jpeg" alt="PCB design." width="1000" height="850"> 
+<img src="Final_Report/Images/PCB_design.png" alt="PCB schematics design." width="800" height="600"> 
 
-Figure 8: Final PCB design for the project. 
+Figure 8: Final PCB schematics design for the project. 
+
+<img src="Final_Report/Images/PCB_printed_circuit_board.png" alt="PCB wire design." width="800" height="700"> 
+
+Figure 9: Final PCB wire design for the project. 
+
 
