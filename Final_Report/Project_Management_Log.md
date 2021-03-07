@@ -1,4 +1,5 @@
 # Project Management Log
+- This markdown document describes the project management of the team for the Spring term. It is a continuing version of the Autumn term which has been illustrated in the [MVP Project Management Log](Final_Report/MVP/MVP_Project_Management_Log.md).  
 
 ## Project management discussion
 
