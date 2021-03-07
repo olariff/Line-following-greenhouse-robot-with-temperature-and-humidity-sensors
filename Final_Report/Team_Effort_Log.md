@@ -1,5 +1,5 @@
 # Team Effort Log
-
+* This markdown document demonstrates the contribution of each team member in the Spring term. It follows the [MVP Team Effor log](Final_Report/MVP/MVP_Team_Effort_Log.md) of the Autumn term.
 
 ## AHMAD MUNEER JAGHASI
 
