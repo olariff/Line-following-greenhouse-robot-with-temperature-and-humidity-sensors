@@ -13,7 +13,9 @@ However, while developing the product we were under the assumption that we have 
 
 
 # Legal Concerns
-There are various software licences that can be used to protect the written code of this product. There are lots of indications to take note of when deciding what licence to use, in order to avoid legal consequences on this end.
+There are various software licences that can be used to protect the written code of this product. There are lots of indications to take note of when deciding what licence to use, in order to avoid legal consequences on this end. An open source licence will be adopted as this enables code reuse up to a certain extent, and is a less strict option. The types of open source licences also have to be looked into, as there are about five of them with varying strictness levels. 
+
+Out of these five, the decision has been made to make use of the public domain, which is not strict relatively. This is the most permissive type of software license. When software is in the public domain, anyone can modify and use the software without any restrictions. But you should always make sure it’s secure before adding it to your own codebase. Warning: Code that doesn’t have an explicit license is NOT automatically in the public domain. This includes code snippets you find on the internet.[1](https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/)
 
 There are different techniques that can be undertaken to protect this product, otherwise known as the intellectual property. There are four main intellectual property protection methods that can be considered in this case, namely; Trademarks, confidential information, copyright and patents. For this particular product, the most reasonable course of action to take is applying for a patent. Therefore, only the design idea will be protected and not the actual code.
 
