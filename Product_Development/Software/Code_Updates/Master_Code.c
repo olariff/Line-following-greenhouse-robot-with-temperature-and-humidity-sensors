@@ -4,7 +4,7 @@
 
 HTU21D temphumid(p9, p10);      //Temprature & Humidty sensor using I2C (SDA, SCL)
 
-ultrasonic mu(p7, p8, .1, 1, &Detecting_Objects);    //trigger:p9, echo:p8
+ultrasonic mu(p7, p8, .1, 1, &Detecting_Objects);    //trigger:p7, echo:p8
                                                      //have updates every .1 seconds and a timeout after 1
                                                      //second, and call Detecting_Objects when the distance changes
 
