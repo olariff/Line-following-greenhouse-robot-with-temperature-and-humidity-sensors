@@ -2,7 +2,8 @@
 - This markdown document describes the project management of the team for the Spring term. It is a continuing version of the Autumn term which has been illustrated in the [MVP Project Management Log](Final_Report/MVP/MVP_Project_Management_Log.md).  
 
 ## Project management discussion
-
+- Team_01 has 7 team members who have been woring collaboratively since the beginning of the academic year. The team members have not ever met during the academic year. Because of the covid-19 pendamic,They were relying on only the virtual tools in order to communicate with each other. It has been a challneging year for all the team members. However, the team has successfully managed to undertake the project resulting in a satisfactory outcome.  
+- 
 
 ## Sprint Burndown Charts
 - Below are three screen shots of the Burndown-Charts of three sprints. These three sprints were created and completed in the Spring term. 
