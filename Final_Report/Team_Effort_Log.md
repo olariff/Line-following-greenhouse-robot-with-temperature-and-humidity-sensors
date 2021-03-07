@@ -17,7 +17,7 @@
 
 * [This story](https://cseejira.essex.ac.uk/browse/A293011-149) was assigned and completed by Ahamd in sprint 6. It took 6 hours and 30 minutes to be finished. It had 10 story points. it had a high priority. The task was to write a draft for the management log markdown document for the final report. The permalink of the last commit in gitlab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/018c0693850879623b7ebcc41ecefc50588e3b6f/Final_Report/Project_Management_Log.md).
 
-* [This subtask](https://cseejira.essex.ac.uk/browse/A293011-166) was assigned and completed by Ahamd in sprint 6. It took 2 hours to be finished. It is a subtask of a story. It had 10 story points. it had a high priority. The task was to write a draft for the team Effort log markdown document for the final report. The permalink of the last commit in gitlab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/7c9dc5d56206da6d6e6337ba3179d824a46b02d3/Final_Report/Team_Effort_Log.md).
+* [This subtask](https://cseejira.essex.ac.uk/browse/A293011-166) was assigned and completed by Ahamd in sprint 6. It took 2 hours to be finished. It is a subtask of a story. It had 10 story points. it had a high priority. The task was to write a draft for the team Effort log markdown document for the final report. The permalink of the last commit in gitlab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/6f76f8d3bac657726ac134c32c746deabe0ea165/Final_Report/Team_Effort_Log.md).
 
 ### Sprint 7 (Week 24 & 25):
 *
