@@ -45,17 +45,26 @@ The robot starts by entering a open WHILE loop (infinite loop). The temperature 
 
 ---
 ---
-#### Code Implementation 
+#### Implementation 
 
-The flow chart in Figure 6 is used to write a C program which could be embedded into the the ARM mbed NXP LCP1768 microcontroller. The links are unit testing code for the temperature and humidity sensor, ultrasonic sensor and IR sensors. 
+The flow chart in Figure 6 is used as a guide to write the final code for this project. The code is written in C programming laguage to be embedded into the the ARM mbed NXP LCP1768 microcontroller. The links below are to technical documentation for the temperature and humidity sensor, ultrasonic sensor, IR sensors and speaker for more information on the components used for the temperature and humidity line follower robot. 
 
-- **Temperature and humidity unit code:** click [here]() for the code. 
+- **Temperature and humidity:** 
+    - Click [here](Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md) for the technical documentation. 
 
-- **Ultrasonic sensor unit code:** click [here]() for the code.
+- **Ultrasonic sensor:** 
+    - Click [here](Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md) for the technical documentation.
 
-- **IR sensor unit code:** click [here]() for the code.
+- **IR sensor:** 
+    - Click [here](Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md) for the technical documentation.
 
-- **Final program:** click [here]() for the code.
+- **Speaker:** 
+    - Click [here](Product_Development/Software/Technical_Documentations/Speaker_Technical_Documentation.md) for the technical documentation.
+
+> | **The links below are to a technical documentation and to the final program code.** |
+> | ------ |
+> | - Click [here]() for the technical documentation. |
+> | - Click [here]() for the final code. |
 
 ---
 ---
@@ -72,7 +81,7 @@ The left and the right IR sensors are connceted to the AnalogueIn of the mbed LC
 ---
 ---
 #### PCB Design
-The PCB design in Figure 8 and Figure 9 follows the referance design in Figure 7. The design is created using AUTODESK [Eagle](https://www.autodesk.co.uk/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) an PCD design software. 
+The PCB design in Figure 8 and Figure 9 follows the referance design in Figure 7. The design is created using AUTODESK [Eagle](https://www.autodesk.co.uk/products/eagle/free-download?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) an PCD design software. Figure 8 is a schematics image of the final circuit and Figure 9 show a PCB design on which all the components used can be soldered onto. Due to the wiring complexity the PCB utilises the top and the bottom copper trace. The tracks in blue is the bottom copper trace and red is the top copper trace. 
 
 <img src="Final_Report/Images/PCB_design.png" alt="PCB schematics design." width="800" height="600"> 
 
