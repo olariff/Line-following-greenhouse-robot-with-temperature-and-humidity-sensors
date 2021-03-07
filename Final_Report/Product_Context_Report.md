@@ -13,6 +13,8 @@ However, while developing the product we were under the assumption that we have 
 
 
 # Legal Concerns
+Legal issues is a huge section that needs to be considered when putting a product out in the market or starting a business. It could be the deciding factor in the fate of the product. This is the reason why it is so essential to go through all the possible legal consequences the product could face and to find solutions to these issues.
+
 ### Licence Agreements 
 There are various software licences that can be used to protect the written code of this product. There are lots of indications to take note of when deciding what licence to use, in order to avoid legal consequences on this end. An open source licence will be adopted as this enables code reuse up to a certain extent, and is a less strict option. The types of open source licences also have to be looked into, as there are about five of them with varying strictness levels. 
 
