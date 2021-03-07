@@ -4,6 +4,8 @@
 
 Figure 1: Speaker. The images is sources from [CUI Devices](https://jp.cuidevices.com)
 
+Click [here](Product_Development/Software/Component_Unit_Test/speaker_unit_code.c) for the unit test code for the speaker. 
+
 Speaker is a electric transducer which, converts an electrical audio signal into a corresponding sound.
 
 ---
