@@ -107,7 +107,7 @@ The code above call the `Get_Tem()` and `Get_Hum()` functions. While the tempera
 
 | |
 | ------ |
-| ![Temperature and humidity test program GIF](Final_Report/flashing_LED.gif) |
+| ![Temperature and humidity test program GIF](Final_Report/Images/flashing_LED.gif) |
 | Figure 2: Ouput of the program while temperature and humidity are not in range. |
 
 ---
