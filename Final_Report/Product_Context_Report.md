@@ -13,7 +13,8 @@ However, while developing the product we were under the assumption that we have 
 
 
 # Legal Concerns
-There are various techniques that can be undertaken to protect this product, otherwise known as the intellectual property. There are four main intellectual property protection methods that can be considered in this case, namely; Trademarks, confidential information, copyright and patents. For this particular product, the most reasonable course of action to take is applying for a patent. Therefore, only the design idea will be protected and not the actual code.
+There are various software licences that can be used to protect the written code of this product. There are lots of indications to take note of when deciding what licence to use, in order to avoid legal consequences on this end.
+There are different techniques that can be undertaken to protect this product, otherwise known as the intellectual property. There are four main intellectual property protection methods that can be considered in this case, namely; Trademarks, confidential information, copyright and patents. For this particular product, the most reasonable course of action to take is applying for a patent. Therefore, only the design idea will be protected and not the actual code.
 
 
 
