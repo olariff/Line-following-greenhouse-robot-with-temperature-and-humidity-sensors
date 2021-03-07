@@ -22,6 +22,8 @@ Out of these five, the decision has been made to make use of the public domain, 
 
 There are different techniques that can be undertaken to protect the physical product, otherwise known as the intellectual property. There are four main intellectual property protection methods that can be considered in this case, namely; Trademarks, confidential information, copyright and patents. For this particular product, the most reasonable course of action to take is applying for a patent. Therefore, in this case, only the design idea will be protected and not the actual code.
 
+### Data Protection Laws
+
 
 
 
