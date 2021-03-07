@@ -20,3 +20,4 @@ There are different techniques that can be undertaken to protect this product, o
 
 
 # Ethical concerns
+In every aspect of life, ethics play an important role in maintaining a certain balance, as it draws a line between good and bad decisions.
