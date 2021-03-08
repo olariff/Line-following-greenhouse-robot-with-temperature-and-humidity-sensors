@@ -23,6 +23,7 @@ Out of these five, the decision has been made to make use of the public domain, 
 There are different techniques that can be undertaken to protect the physical product, otherwise known as the intellectual property. There are four main intellectual property protection methods that can be considered in this case, namely; Trademarks, confidential information, copyright and patents. For this particular product, the most reasonable course of action to take is applying for a patent. Therefore, in this case, only the design idea will be protected and not the actual code.
 
 ### Data Protection Laws
+The Data Protection Act of 1998 governs data protection in the United Kingdom. However, 20 years later, with ongoing technological advancements, the legislation seems obsolete and irrelevant to the current data security issues. The General Data Protection Regulation (GDPR) will replace the Data Protection Act in May 2018, bringing with it a slew of additional obligations and penalties for businesses.
 
 
 
