@@ -64,7 +64,7 @@ The flow chart in Figure 6 is used as a guide to write the final code for this p
 > | **The links below are to a technical documentation and to the final program code.** |
 > | ------ |
 > | - Click [here]() for the technical documentation. |
-> | - Click [here]() for the final code. |
+> | - Click [here](Product_Development/Software/Code_Updates/Master_Code.c) for the **final code**. |
 
 ---
 ---
