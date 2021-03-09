@@ -39,7 +39,7 @@ The unit testing for our product comprises two main categories: hardware (motors
     - To confirm external HTU21D.h library compatibility with Mbed LPC1768 platform.
     - To confirm pinouts are suitable.
 * Test Plan:
-    - The sensor will be connected to the Mbed microcontroller pins 9 and 10 to allow I2C data transfer.
+    - The sensor will be connected to the Mbed pins 9 and 10 to allow I2C data transfer.
     - HTU21D library functions `sample_ctemp()` and `sample_humid()` will take ambient room temperature and humidity readings.
     - Data readings will be output to the system console for verification.
 * Pass Criteria:
@@ -64,12 +64,51 @@ int main() {
 
 Results:   
 <img src="Final_Report/Images/temphumid01.jpg" alt="TempHumid console output." width="35%">
+
+---
+
 #### _Ultrasonic Sensing_
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/ultrasonic_sensor_unit_code.c)
 * [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)
 
+---
 #### _Speaker Output_
-* [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/speaker_unit_code.c)
-* [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Speaker_Technical_Documentation.md)
+[Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/speaker_unit_code.c)   
+[Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Speaker_Technical_Documentation.md)   
+
+* Test Objectives: 
+    - To confirm the speaker is operational and can output an audible alert sound.
+* Test Plan:
+    - The speaker will be connected to Mbed pin 23 to allow PWM control.
+    - PwmOut Library function `period()` will be used to set output frequency of tone.
+* Pass Criteria:
+    - An audible alert tone is output from the speaker.
+  
+Driver Code (taken from https://simulator.mbed.com/):   
+```
+#include "mbed.h"
+
+PwmOut speaker(p23);
+// play a tone
+void play_tone(float frequency, float volume, int interval, int rest) {
+    speaker.period(1.0 / frequency);
+    speaker = volume;
+    wait(interval);
+    speaker = 0.0;
+    wait(rest);
+}
+
+int main()
+{
+    while(1) {
+    play_tone(200.0, 0.5, 1, 0);
+    }
+}
+
+```
+
+Results:   
+
+
 ---
 
