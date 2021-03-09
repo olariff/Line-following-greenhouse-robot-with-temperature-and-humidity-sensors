@@ -28,9 +28,22 @@ The unit testing for our product comprises two main categories: hardware (motors
 #### _IR Sensing_
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/IR_sensors_unit_code.c)
 * [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)
+
+
 #### _Temperature and Humidity Sensing_
-* [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/temperature_and_humidity_unit_code.c)
-* [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md)
+[Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/temperature_and_humidity_unit_code.c)    
+[Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md)
+
+* Test Objectives: 
+    - To confirm the temperature/humidity sensor is operational and returns valid data readings.
+    - To confirm external HTU21D.h library compatibility with Mbed LPC1768 platform.
+    - To confirm pinouts are suitable.
+* Test Plan:
+    - The sensor will be connected to the Mbed microcontroller pins 9 and 10 to allow I2C data transfer.
+    - HTU21D library functions `sample_ctemp()` and `sample_humid()` will take ambient room temperature and humidity readings.
+    - Data readings will be output to the system console for verification.
+* Pass Criteria:
+    - Valid temperature and humidity readings are displayed on system console.
 
 #### _Ultrasonic Sensing_
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/ultrasonic_sensor_unit_code.c)
