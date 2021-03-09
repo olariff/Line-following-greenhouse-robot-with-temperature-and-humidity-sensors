@@ -29,7 +29,7 @@ The unit testing for our product comprises two main categories: hardware (motors
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/IR_sensors_unit_code.c)
 * [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)
 
-
+---
 #### _Temperature and Humidity Sensing_
 [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/temperature_and_humidity_unit_code.c)    
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md)
@@ -45,6 +45,22 @@ The unit testing for our product comprises two main categories: hardware (motors
 * Pass Criteria:
     - Valid temperature and humidity readings are displayed on system console.
 
+Driver Code:
+```
+#include "mbed.h"
+#include "HTU21D.h"
+HTU21D temphumid(p9, p10);
+
+int main() {
+    while (1) {
+        float temp = temphumid.sample_ctemp();
+        float humidity = temphumid.sample_humid();
+
+        printf("Temperature: %.2f C  Humidity: %.2f %%\n", temp, humidity);
+        wait(0.5f);
+    }
+}
+```
 #### _Ultrasonic Sensing_
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/ultrasonic_sensor_unit_code.c)
 * [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)
