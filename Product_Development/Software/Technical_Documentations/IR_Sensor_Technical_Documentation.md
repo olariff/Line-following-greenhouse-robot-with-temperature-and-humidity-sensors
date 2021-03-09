@@ -55,18 +55,16 @@ Table 2: Rignt IR sensor pin connection table.
 ```left_sensor.mode(PullNone);```
 ```right_sensor.mode(PullNone);```
 
-The ```.mode(PullNone)``` 
-
-
+The ```.mode(PullNone)``` executed in the main body, outside the infinite while loop as it sets the left and the right IR sensor to NULL. The finction makes usre that the IR sensor are active and working. The left and right IR sensors are connected to analog input, using ```.mode(PullNone);``` sets the sinal as digital. The reading from the sensor are set from 0 to 1. If the readings from the sensor are below 0.5, this is interpretative as loic 0 (LOW). If the reading is above or 0.5, this is interpreted as logic 1 (HIGH). 
 
 ```left_sensor.read()```
 ```right_sensor.read()```
 
+The ```.read();``` function reads the data from the respective pins of the left and right IR sensors. ```left_sensor.read()``` will read value from left IR sensor and ```right_sensor.read()``` will read values from the right sensor. The values obtained determin of the steering of the line follower is set to turn left or right. 
+
 ---
 ---
-> ### _Acknowledgement_
 > 
-> The 
+> Click [here](https://os.mbed.com/questions/69023/coding-for-ir-sensor/) for the original source of information used for this technical documentation. 
 > 
-> https://os.mbed.com/questions/69023/coding-for-ir-sensor/
 
