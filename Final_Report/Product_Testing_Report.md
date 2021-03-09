@@ -125,4 +125,10 @@ Results:
 
 
 ---
-### Part 2: Integration Testing 
+### Part 2: Integration Testing    
+
+<img src="Final_Report/Images/intTestModules.jpeg" alt="intTestModules" width="50%">   
+
+Integration testing allows related modules to be combined and tested together before further integration is completed. For our autonomous car, 
+
+
