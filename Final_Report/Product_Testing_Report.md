@@ -1,5 +1,5 @@
 # Product Test Report   
-The following report details the various tests used to assess the product and its component parts.    
+The following report details the various tests used to assess the autonomous car's performance.    
 (Note: With lockdown restrictions imposed due to Covid-19, many tests were not possible to conduct physically - in this situation the team has used simulations where possible or continued with assumed ideal test results).   
 
 
@@ -15,7 +15,7 @@ The unit testing for our product comprises two main categories: hardware (motors
 
 ---
 #### _Velocity and Steering_   
-Velocity and steering is the most fundamental module for the autonomous car, providing the basic functionality necessary for movement in a 2D plane.   
+Velocity and steering is the most fundamental module for the autonomous car and provide the basic functionality necessary for movement in a 2D plane.   
 [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/RCCar07_Steering_and_Velocity_Unit_Code.c)   
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md)
 
@@ -37,12 +37,14 @@ Velocity and steering is the most fundamental module for the autonomous car, pro
 ---
    
 
-#### _IR Sensing_
+#### _IR Sensing_   
+IR sensing allows the autonomous car to detect its position relative to the line it follows, and react accordingly. 
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/IR_sensors_unit_code.c)
 * [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)
 
 ---
-#### _Temperature and Humidity Sensing_
+#### _Temperature and Humidity Sensing_   
+Temperature and humidity sensing gives the autonomous car the ability to monitor the surrounding ambient air conditions.   
 [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/temperature_and_humidity_unit_code.c)    
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md)
 
