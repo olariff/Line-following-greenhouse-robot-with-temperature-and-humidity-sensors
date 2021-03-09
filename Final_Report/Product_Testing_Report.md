@@ -2,11 +2,10 @@
 The following report details the various tests used to assess the product and its component parts.    
 (Note: With lockdown restrictions imposed due to Covid-19, many tests were not possible to conduct physically - in this situation the team has used simulations where possible or continued with assumed ideal test results).   
 
-[Unit Testing](unittest)   
-[Integration Testing](inttest)
+
 
 ---
-### Part 1: Unit Testing <a name ="unittest"></a> 
+### Part 1: Unit Testing 
 Unit testing is an important process in catching faulty components and poor design features before they are implemented in a more complete prototype product. When completed succesfully, this should benefit a project by reducing time and financial costs that would otherwise be spent repairing or redesigning defects.
 The unit testing for our product comprises two main categories: hardware (motors/sensors) and software (driver C code), where the test results should confirm that both are working as expected.    
    
@@ -102,4 +101,4 @@ Results:
 
 
 ---
-### Part 2: Integration Testing <a name ="inttest"></a> 
+### Part 2: Integration Testing 
