@@ -5,15 +5,35 @@ The following report details the various tests used to assess the product and it
 
 
 ---
-### Part 1: Unit Testing 
+### Part 1: Unit Testing   
+
+<img src="Final_Report/Images/unitTestModules.jpeg" alt="unitTestModules" width="60%">
+
 Unit testing is an important process in catching faulty components and poor design features before they are implemented in a more complete prototype product. When completed succesfully, this should benefit a project by reducing time and financial costs that would otherwise be spent repairing or redesigning defects.
 The unit testing for our product comprises two main categories: hardware (motors/sensors) and software (driver C code), where the test results should confirm that both are working as expected.    
    
 
 ---
-#### _Velocity and Steering_
-* [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/RCCar07_Steering_and_Velocity_Unit_Code.c)
-* [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md)
+#### _Velocity and Steering_   
+Velocity and steering is the most fundamental module for the autonomous car, providing the basic functionality necessary for movement in a 2D plane.   
+[Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/RCCar07_Steering_and_Velocity_Unit_Code.c)   
+[Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md)
+
+* Test Objectives:
+    - To confirm the hardware foundation of the car (motors, servo, H-bridge) are connected and functioning correctly.
+    - To confirm the provided code is able to perform the basic movements: forward and reverse velocity, left and right steering.
+* Test Plan:
+    - The provided code 'RCCar07' will be compiled and loaded onto the Mbed microcontroller.
+    - The program will be run and the car's behaviour observed.
+* Pass Criteria:
+    - The following functionality is observed:
+        - Stop to full forward velocity
+        - Full forward velocity to full reverse
+        - Full reverse velocity to stop
+        - Centre steering to full right
+        - Full right steering to full left
+        - Full left steering to centre
+   
 ---
    
 
