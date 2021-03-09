@@ -61,6 +61,9 @@ int main() {
     }
 }
 ```
+
+Results:   
+<img src="Final_Report/Images/temphumid01.jpg" alt="TempHumid console output." width="35%">
 #### _Ultrasonic Sensing_
 * [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/ultrasonic_sensor_unit_code.c)
 * [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)
