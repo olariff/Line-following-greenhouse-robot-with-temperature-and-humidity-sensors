@@ -68,7 +68,7 @@ Temperature and humidity sensing gives the autonomous car the ability to monitor
 
 * Test Objectives: 
     - To confirm the temperature/humidity sensor is operational and returns valid data readings.
-    - To confirm external HTU21D.h library compatibility with Mbed LPC1768 platform.
+    - To confirm external `HTU21D.h` library compatibility with Mbed LPC1768 platform.
     - To confirm pinouts are suitable.
 * Test Plan:
     - The sensor will be connected to the Mbed pins 9 and 10 to allow I2C data transfer.
@@ -105,10 +105,15 @@ Ultrasonic sensing provides the ability to detect obstructions in the autonomous
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)   
 
 * Test Objectives:
-    
+    - To confirm the sensor unit is operational and can return valid distance readings in response to the proximity to other objects.
+    - To confirm external `ultrasonic.h` library compatibility with Mbed LPC1768 platform.
+    - To confirm chosen pinouts are suitable.
 * Test Plan:
-    
+    - The sensor will be connected to Mbed pin 7 (to use clock signal) and pin 8 (for data readings).
+    - Ultrasonic library function `checkDistance()` will take data readings as an object is moved towards the sensor.
+    - Data readings will be output to the system console for verification.
 * Pass Criteria:
+    - Valid data readings are displayed on the system console.
 
 ---
 #### _Speaker Output_   
