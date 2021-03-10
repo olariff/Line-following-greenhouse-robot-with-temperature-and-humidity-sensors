@@ -15,7 +15,7 @@ The unit testing for our product comprises two main categories: hardware (motors
 
 ---
 #### _Velocity and Steering_   
-Velocity and steering is the most fundamental module for the autonomous car and provide the basic functionality necessary for movement in a 2D plane.   
+Velocity and steering is the most fundamental module for the autonomous car and provide the basic functionality necessary for movement in a 2D plane (linear velocity and heading).   
 [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/RCCar07_Steering_and_Velocity_Unit_Code.c)   
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md)
 
@@ -38,9 +38,19 @@ Velocity and steering is the most fundamental module for the autonomous car and 
    
 
 #### _IR Sensing_   
-IR sensing allows the autonomous car to detect its position relative to the line it follows, and react accordingly. 
-* [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/IR_sensors_unit_code.c)
-* [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)
+IR sensing allows the autonomous car to detect its position relative to its guide line, and update its velocity/heading accordingly. 
+[Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/IR_sensors_unit_code.c)   
+[Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)  
+
+* Test Objectives:
+    - To confirm both IR sensors are operational and capable of returning valid readings in response to changing light.
+* Test Plan:
+    - The IR sensor will be connected to Mbed pins 15 and 16 to allow analogue data to be read from each sensor.
+    - 'read()' functions will take data readings from each sensor while exposed to changin light conditions.
+    - The data readings will be printed to the system console for verification.
+* Pass Criteria:
+    - Valid light readings from each sensor are displayed on the system console.
+    
 
 ---
 #### _Temperature and Humidity Sensing_   
@@ -81,12 +91,20 @@ Results:
 
 ---
 
-#### _Ultrasonic Sensing_
-* [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/ultrasonic_sensor_unit_code.c)
-* [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)
+#### _Ultrasonic Sensing_   
+Ultrasonic sensing provides the ability to detect obstructions in the autonomous car's path so that velocity/heading can be updated accordingly.     
+[Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/ultrasonic_sensor_unit_code.c)   
+[Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)   
+
+* Test Objectives:
+    
+* Test Plan:
+    
+* Pass Criteria:
 
 ---
-#### _Speaker Output_
+#### _Speaker Output_   
+The speaker gives the car the ability to sound an audible warning if it detects ambient conditions outside of the desired temperature/humidity ranges.      
 [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/speaker_unit_code.c)   
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Speaker_Technical_Documentation.md)   
 
