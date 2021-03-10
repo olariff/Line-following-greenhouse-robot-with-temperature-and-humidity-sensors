@@ -8,6 +8,12 @@ However, while developing the product we were under the assumption that we have 
 
 
 # Health and Safety
+Robots and machinery are very common now and have been increased in popularity for  various different purposes. Workplaces now use machines to assist them in daily tasks to achieve the task quicker, efficient and much  more safer in some cases. Introducing robots in the work place alongside with humans however raises health and safety concerns. The main source of reported injuries are when the robot pinches or walks into a human by accident. 
+However a certain portion of these errors or accidents are not directly the fault of the robot, the fault is the cause of the poor design and safeguards implemented by the human programmer that has designed the robot. The other side however is that there are also many humans working in the workplace some people do not know how to operate the robot and use them in a safe manner to avoid injuries to themselves and other people. The most likely reason for these injuries is caused due to a lack of education when the robots are introduced to the workplace. [https://en.wikipedia.org/wiki/Workplace_robotics_safety
+]
+One of the main causes of injuries in the workplace is the miscommunication between humans and robots. This is why it’s important to keep in mind what purpose the robot is being designed for; industrial or for consumers.  The robots that are designed in an industrial environment are very fast and very powerful, depending on the design of the robot and the way they are built if there is an accident with a human the speeds and strength that the machine works at could lead to a very serious injury or in some cases there have been deaths reported. 
+
+There are now guidelines and rules to prevent these issues from occurring. Workplaces have now introduced restricted or only authorised areas only. These have been designed so that only certain people can have access or people that have had professional training and can work with the specific equipment can only operate to maintain or repair the robot. These guidelines also need to insure that hazards that can not be predicted are thought of and there are steps to take if there ever is this issue occurs. 
 
 
 
