@@ -1,6 +1,8 @@
 # Product Test Report   
 The following report details the various tests used to assess the autonomous car's performance.    
-(Note: With lockdown restrictions imposed due to Covid-19, many tests were not possible to conduct physically - in this situation the team has used simulations where possible or continued with assumed ideal test results).   
+(Note: With lockdown restrictions imposed due to Covid-19, many tests were not possible to conduct physically - in this situation the team has used simulations where possible or continued with assumed ideal test results).  
+
+[Integration Testing](#part2:integrationtesting)
 
 
 
