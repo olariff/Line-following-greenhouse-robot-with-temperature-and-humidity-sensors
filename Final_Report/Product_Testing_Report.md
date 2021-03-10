@@ -9,8 +9,16 @@ The following report details the various tests used to assess the autonomous car
 
 <img src="Final_Report/Images/unitTestModules.jpeg" alt="unitTestModules" width="60%">
 
-Unit testing is an important process in catching faulty components and poor design features before they are implemented in a more complete prototype product. When completed succesfully, this should benefit a project by reducing time and financial costs that would otherwise be spent repairing or redesigning defects.
-The unit testing for our product comprises two main categories: hardware (motors/sensors) and software (driver C code), where the test results should confirm that both are working as expected.    
+Unit testing is an important process in catching faulty components and poor design features before they are implemented in a more complete prototype product. When completed succesfully, this should benefit a project by reducing time and financial costs that would otherwise be spent repairing or redesigning defects.   
+   
+Unit testing for our product will focus on the 5 main modules it comprises: 
+* Velocity and Steering
+* Infrared Sensing
+* Temperature and Humidity Sensing
+* Ultrasonic Sensing
+* Speaker Ouput   
+   
+Since these modules consist of both hardware (motors/sensors) and software (driver C code) components, testing must confirm that both work as expected.  
    
 
 ---
@@ -46,7 +54,7 @@ IR sensing allows the autonomous car to detect its position relative to its guid
     - To confirm both IR sensors are operational and capable of returning valid readings in response to changing light.
 * Test Plan:
     - The IR sensor will be connected to Mbed pins 15 and 16 to allow analogue data to be read from each sensor.
-    - 'read()' functions will take data readings from each sensor while exposed to changin light conditions.
+    - `read()` functions will take data readings from each sensor while exposed to changin light conditions.
     - The data readings will be printed to the system console for verification.
 * Pass Criteria:
     - Valid light readings from each sensor are displayed on the system console.
