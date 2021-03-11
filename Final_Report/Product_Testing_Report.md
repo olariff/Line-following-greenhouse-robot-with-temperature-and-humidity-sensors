@@ -132,8 +132,31 @@ Ultrasonic sensing provides the ability to detect obstructions in the autonomous
     - Ultrasonic library function `checkDistance()` will take data readings as an object is moved towards the sensor.
     - Data readings will be output to the system console for verification.
 * Pass Criteria:
-    - Valid data readings are displayed on the system console.
+    - Valid data readings are displayed on the system console.   
+   
+Driver Code:   
+```
+#include "mbed.h"
+#include "ultrasonic.h"
 
+ultrasonic mu(p7, p8, .1, 1, &Detecting_Objects);
+ 
+// Get Distance
+void Detecting_Objects(float distance){
+    Dis = distance;
+}
+
+while(1){
+    mu.checkDistance();
+    printf("Distance: %.3f", dis);
+}
+```
+Results:   
+* Unit Test Passed:
+    - The sensor detected an approaching object.
+    - Readings were verified on the system console.
+<img src="Final_Report/Images/ultrasonic01.jpg" alt="Ultrasonic console output" width="15%">   
+   
 ---
 #### _Speaker Output_   
 The speaker gives the car the ability to sound an audible warning if it detects ambient conditions outside of the desired temperature/humidity ranges.      
