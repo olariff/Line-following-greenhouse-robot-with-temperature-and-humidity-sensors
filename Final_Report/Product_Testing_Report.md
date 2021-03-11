@@ -49,7 +49,13 @@ Velocity and steering is the most fundamental module for the autonomous car and 
         - Full reverse velocity to stop
         - Centre steering to full right
         - Full right steering to full left
-        - Full left steering to centre
+        - Full left steering to centre   
+
+Results:   
+It was possible to conduct this test remotely over Zoom and confirm the car was able to perform the required functions listed above.   
+It was noted that the velocity of the car would need to be reduced for use in our application.   
+
+<img src="Final_Report/Images/car.jpg" alt="car" width="60%">
    
 ---
    
