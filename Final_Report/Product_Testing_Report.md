@@ -52,8 +52,9 @@ Velocity and steering is the most fundamental module for the autonomous car and 
         - Full left steering to centre   
 
 Results:   
-It was possible to conduct this test remotely over Zoom and confirm the car was able to perform the required functions listed above.   
-It was noted that the velocity of the car would need to be reduced for use in our application.   
+* Unit Test Passed:
+    - The test was conducted remotely over Zoom and the car was seen to perform the required functions listed above.   
+    - It was noted that the velocity of the car would need to be reduced for use in our application.   
 
 <img src="Final_Report/Images/car.jpg" alt="car" width="60%">
    
@@ -110,6 +111,9 @@ int main() {
 ```
 
 Results:   
+* Unit Test Passed:
+    - The sensor successfully measured room's ambient temperature and humidity.
+    - Data readings were verified on the system console.   
 <img src="Final_Report/Images/temphumid01.jpg" alt="TempHumid console output." width="35%">
 
 ---
@@ -168,6 +172,8 @@ int main()
 ```
 
 Results:   
+* Unit test passed:
+    - an audible tone was heard from the speaker.
 
 
 ---
