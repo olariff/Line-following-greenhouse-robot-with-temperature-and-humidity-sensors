@@ -62,7 +62,7 @@ Results:
    
 
 #### _IR Sensing_   
-IR sensing allows the autonomous car to detect its position relative to its guide line, and update its velocity/heading accordingly. 
+IR sensing allows the autonomous car to detect its position relative to its guide line, and update its velocity/heading accordingly.    
 [Unit Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Component_Unit_Test/IR_sensors_unit_code.c)   
 [Technical Documentation](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)  
 
