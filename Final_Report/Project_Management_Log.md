@@ -26,11 +26,11 @@
 
 - Burndown-Charts are used to depict how the story points are being burnt down during the scope of the sprint.
 
-1. The Burndown-Chart which is depicted for sprint 5 shows that were 40 story points to be burnt down during the sprint. The 40 story points have been completed by the end of the sprint. However, the chart shows that most of the work has been accomplished at the end of the sprint. Moreover, there were not any added issues during the sprint scope.
+1. The Burndown-Chart which is depicted for sprint 5 shows that there were 40 story points to be burnt down during the sprint. The 40 story points have been completed by the end of the sprint. However, the chart shows that most of the work has been accomplished at the end of the sprint. Moreover, there were not any added issues during the sprint scope.
 
-2. The Burndown-Chart which is depicted for sprint 6 shows that were 95 story points to be burnt down during the sprint. However, the negative thing about this sprint was adding 26 story points during the scope of the sprint. On the other hand, all story points have been completed by the end of the sprint. the chart shows how the team was working over the whole period of the sprint to burn all story points down. 
+2. The Burndown-Chart which is depicted for sprint 6 shows that there were 95 story points to be burnt down during the sprint. However, the negative thing about this sprint was adding 26 story points during the scope of the sprint. On the other hand, all story points have been completed by the end of the sprint. the chart shows how the team was working over the whole period of the sprint to burn all story points down. 
 
-3. The Burndown-Chart which is depicted for sprint 7 shows that were () story points to be burnt down during the sprint. The () story points have been completed by the end of the sprint. However, the chart shows that most of the work has been accomplished at the end of the sprint. Moreover, there were not any added issues during the sprint scope.
+3. The Burndown-Chart which is depicted for sprint 7 shows that there were 70 story points to be burnt down during the sprint. Most of the 70 story points have been completed in first half of the sprint. In addition, there were not any added issues during the sprint scope.
 
 
 ## Product Backlog
