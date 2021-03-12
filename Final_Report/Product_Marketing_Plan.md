@@ -36,4 +36,17 @@ Other products that are currently on the market are autonomous food delivery rob
 
 Advantages that our product can offer over the competition are: ???
 
-## Product, price, promotion, place
+
+## Marketing Mix 4 P’s
+
+Product: Path Finder Bot offers a unique temperature and humidity monitoring and control mechanism for the indoor farming environment such as greenhouse and vertical farming. There exist much monitoring and controlling devices in the market, however, the unique selling proposition of the Path Finder is its ability of moving around and collect monitoring data to map with the prescribed climatic conditions necessary for the particular crop. The device functions on lines to move across and have a high-resolution monitor. The speed can be controlled and provides easy manoeuvring across the farm setup (Bhasin, 2019).
+
+The hardware comprises high grade and minimalist design that touches upon retro neo design language. The user controls on the bot are smooth and robust considering the environment inside the enclosed setup of greenhouse and vertical farming. The software is highly user-friendly and has various functionalities and analysis based on the temperature and humidity data for critical management of crops (Bhasin, 2019; GeniaTech, 2020). 
+
+Price: Price point is another important aspect of a product as it attaches the utility to the price. The Path Finder Bot is marketing at an attractive price point of GBP £750, having contemporary design, superior build quality. The price will include the yearlong service and warranty on the product hardware and a two-year software update. However, the new analysis and performance dashboards are subjected to different pricing as per the requirements. Having the right price point plays an important role in the future of the product. The  GBP £750 price point of Path Finder allows it stay above the competition in terms of product and service  on offers. It also keeps in a market just below the premium product market, however matches the manufacturing and functionality of the premium products (Bhasin, 2019). 
+
+Place: The Path Finder product channel of propagation will comprise both online and real-world marketing. The digital marketplace will involve the use of social media platforms such as Facebook, Twitter, and Instagram concentrating on urban farming, vertical farming, and smart farming groups. It will offer direct interaction with the company executives for information and purchase. Along with online medium, the 
+
+Promotion: Along with it, the online and real-world selling, the promotion methods will include digital marketing promotions, attaching government funds and subsidies to the product purchase options. Real-world marketing will involve attending events and conferences of technology and innovations within the future farming realm. It ground marketing will also involve orientation and awareness programs regarding the benefits of the use of technology in urban setup and the opportunities in the current and future smart farming market. The current world marketing and  promotion tactics are primary to the greater product awareness, brand development and  product percolation. It also act as an important feedback mechanism through customer engagement to develop the product (Bhasin, 2019; FarmingUK, 2019; Sherriff, 2020; Strickler, 2020). The overall emphasis will be increasing customer engagement and creating a feedback-back beneficial ecosystem, essential for the next iteration of product development. 
+
+
