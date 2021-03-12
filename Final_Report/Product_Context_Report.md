@@ -44,3 +44,6 @@ An important aspect to consider for this product is how it affects the jobs of i
 Code reuse of other individuals' work could be looked upon as stealing, which is morally unacceptable. Hence, the necessary referencing and acknowledgement must be put in place to avoid ethical implications. This also applies to any third party library/software used in the development of the product.
 
 Although, every aspect of what is ethically acceptable/unacceptable cannot be covered, individuals are equipped with moral compasses and do not neccesarily need a code of conduct to decide what is right or wrong. Hence, discretion is to be used in certain aspects of decision making in ethics.
+
+
+# References
