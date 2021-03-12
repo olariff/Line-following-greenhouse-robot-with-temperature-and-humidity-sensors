@@ -14,13 +14,13 @@
 - Below are three screenshots of the Burndown-Charts of three sprints. These three sprints were created and completed in the Spring term. 
 
 1. _**This is the sprint-5 whihc has been accomplished in this spring term (week 20 & week 21):**_
-<img src="Final_Report/Images/sprint5.PNG" alt="Sprint5" width="1000" height="350">
+<img src="Final_Report/Images/sprint5.PNG" alt="Sprint5" width="100%" height="100%">
 
 2. _**This is the sprint-6 whihc has been accomplished in this spring term (week 22 & week 23):**_
-<img src="Final_Report/Images/sprint6.PNG" alt="Sprint6" width="1000" height="350">
+<img src="Final_Report/Images/Sprint6.JPG" alt="Sprint6" width="100%" height="100%">
 
 3. _**This is the sprint-7 whihc has been accomplished in this spring term (week 24 & week 25):**_
-<img src="Final_Report/Images/sprint7.PNG" alt="Sprint7" width="1000" height="350">
+<img src="Final_Report/Images/sprint7.PNG" alt="Sprint7" width="100%" height="100%">
 
 ## Burndown-Charts Discussion
 
@@ -36,11 +36,11 @@
 ## Product Backlog
 - Below are two screenshots of the Backlog area of our team in Jira where we keep all the issues that need to be accomplished. The issues are moved to the Sprints and assigned to team members. In addtion, there were a couple of risks which were kept in the backlog until the team makes sure that they can resolve them.
 
-<img src="Final_Report/Images/Backlog.jpg" alt="Backlog" width="1000" height="350">
+<img src="Final_Report/Images/Backlog.jpg" alt="Backlog" width="100%" height="100%">
 
 `Figure 1: This is a screenshot of the Backlog area during Sprint 6 (week 22 & week 23)`
 
-<img src="Final_Report/Images/Backlog2.jpg" alt="Backlog2" width="1000" height="350">
+<img src="Final_Report/Images/Backlog2.JPG" alt="Backlog2" width="100%" height="100%">
 
 `Figure 1: This is a screenshot of the Backlog area during Sprint 7 (week 24 & week 25)`
 
