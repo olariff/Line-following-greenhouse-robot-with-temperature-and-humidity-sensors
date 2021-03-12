@@ -38,3 +38,5 @@ The Data Protection Act of 1998 governs data protection in the United Kingdom. H
 
 # Ethical concerns
 In every aspect of life, ethics play an important role in maintaining a certain balance, as it draws a fine line between good and bad decisions and ensures both the workers and consumers of the product are not abused in any sort of way. 
+An important aspect to consider for this product is how it affects the jobs of individuals in the industry. It is most certain that the release of this product into the market will result in the loss of jobs, however this is not an issue that is dependent on the production company to resolve. This is a major role the government play a significant part in, hence they are responsible for the resolution of this issue.
+
