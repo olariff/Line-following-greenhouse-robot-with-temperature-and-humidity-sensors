@@ -21,7 +21,7 @@ Current demand in the target market or potential consumers is increasing at a st
 
 The market is expected to experience a rapid growth in the coming decade with a CAGR(compound annual growth rate) of 18%.
 
-The key factors and trends in the target market is due to the increasing demand in autonomous solutions in the flourishing e-commerce industry.
+The key factors and trends in the target market is due to the increasing demand in autonomous solutions in the flourishing e-commerce industry, especially during the current time of pandemic to reduce human contact.
 
 ## Competition
 
