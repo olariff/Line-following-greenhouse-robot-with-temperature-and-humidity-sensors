@@ -42,3 +42,5 @@ In every aspect of life, ethics play an important role in maintaining a certain 
 An important aspect to consider for this product is how it affects the jobs of individuals in the industry. It is most certain that the release of this product into the market will result in the loss of jobs, however this is not an issue that is dependent on the production company to resolve. This is a major role the government play a significant part in, hence they are responsible for the resolution of this issue.
 
 Code reuse of other individuals' work could be looked upon as stealing, which is morally unacceptable. Hence, the necessary referencing and acknowledgement must be put in place to avoid ethical implications. This also applies to any third party library/software used in the development of the product.
+
+Although, every aspect of what is ethically acceptable/unacceptable cannot be covered, individuals are equipped with moral compasses and do not neccesarily need a code of conduct to decide what is right or wrong. Hence, discretion is to be used in certain aspects of decision making in ethics.
