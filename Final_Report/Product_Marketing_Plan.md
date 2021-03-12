@@ -1,18 +1,18 @@
 # Product marketing plan
 
-## Market Research
-
-Greenhouse farming and vertical farming are two of the most rapidly growing markets around the world and have shown similar growth in the UK market. Smart farming comprises the use of technology such as AI, Internet of Things IoT, bots, vertical farming, and drones to control and monitor the farming environment to generate agricultural produce in urban setup and also on large-scale farming. The primary advantage of Greenhouse farming comprises the ability to control it offers in regulating the components such as light, temperature, and humidity, which are vital to produce healthy and high-quality agricultural produce. Path Finder Bot is designed to directly address the primary challenges faced by traditional greenhouses that are temperature control and monitoring and humidity control and monitoring (Darji, 2021; Solanki, 2019). 
-
-The global smart farming market is poised to grow by 9.7 percent (CAGR) to reach $29 Billion by 2027 (Chouhan, 2020). Along with Greenhouse, vertical farming is set to grow by 12 percent to reach a market cap of $16 billion by 2025. Both the market are potential Path Finder Bot market with heavy reliance on temperature and humidity control because of the indoor and enclosed farming setup (FarmingUK, 2019) There are several other economic and socio-political factors driving the UK smart farming market. 
-
-
 ## Key goals of the marketing plan
 
 - Identify and target market consumers
 - Figure out how they are to go about purchasing the Product
 - What kind of marketing messages will they respond to
 - Design and implement a marketing program
+
+## Market Research
+
+Greenhouse farming and vertical farming are two of the most rapidly growing markets around the world and have shown similar growth in the UK market. Smart farming comprises the use of technology such as AI, Internet of Things IoT, bots, vertical farming, and drones to control and monitor the farming environment to generate agricultural produce in urban setup and also on large-scale farming. The primary advantage of Greenhouse farming comprises the ability to control it offers in regulating the components such as light, temperature, and humidity, which are vital to produce healthy and high-quality agricultural produce. Path Finder Bot is designed to directly address the primary challenges faced by traditional greenhouses that are temperature control and monitoring and humidity control and monitoring (Darji, 2021; Solanki, 2019). 
+
+The global smart farming market is poised to grow by 9.7 percent (CAGR) to reach $29 Billion by 2027 (Chouhan, 2020). Along with Greenhouse, vertical farming is set to grow by 12 percent to reach a market cap of $16 billion by 2025. Both the market are potential Path Finder Bot market with heavy reliance on temperature and humidity control because of the indoor and enclosed farming setup (FarmingUK, 2019) There are several other economic and socio-political factors driving the UK smart farming market. 
+
 
 ## Identifying target market & consumers
 
