@@ -30,9 +30,7 @@
 ## SAGAR KANDEL 
 
 ### Sprint 5 (Week 20 & 21):
-- skeleton code 
--
--
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-139) was assigned by Ahmad and compleated by Sagar in sprint 6. This is a subtask of a story. The task involved creating a skeleton code, building a foundation for the final code. This story has been done by Ahmad, Sagar and Robert. Sagar spent 3 hours in his contribution towards this skeleton code. This task has 20 story points and it had a medium priority. The permalink of the commit in gitlab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Software/Code_Updates/Master_Code.c).
 
 ### Sprint 6 (Week 22 & 23):
 
