@@ -3,9 +3,11 @@ This section should describe the technical details of your implementation.  The 
 
 # Technical Diagrams
 Include a class diagram / circuit diagram, and/or any other relevant technical diagrams.
+<img src="Final_Report/Images/flow_chart.png" alt="Program flow chart." width="1200" height="1000">
 
 # Technical Description
-This section should describe the software implementation in prose form.  Focus on how the code was designed and built.
+This section should describe the software implementation in prose form. 
+Focus on how the code was designed and built.
 It should make a clear description that could be used by any future developers to maintain and extend your code, if necessary.
 Describe important functions / classes / class hierarchies.
 In this section, you should also wish to highlight any technical achievements your team is particularly proud of, including relevant code snippets.
@@ -18,5 +20,25 @@ In both cases, describe the space / time complexity of each.
 # Imported Libraries
 List any 3rd party libraries that were used and describe what functionality they provided.
 
+### mbed head libary:
+
+`#include "mbed.h"`
+
+### Temperature and humidity sensor libary:
+
+`#include "HTU21D.h"`
+
+### Ultrasonic sensor libary:
+
+`#include "ultrasonic.h"`
+
+
+- **Temperature and humidity sensor technical documentation:**
+- **IR sensor technical documentation:**
+- **Ultrasonic sensor sensor technical documentation:**
+- **Speaker technical documentation:**
+
 # Known Issues
 List any known issues (bugs) in your software, and describe workarounds if they exist.
+
+The code cannot be tested due to current pandamic. Limited access to hardware. 
