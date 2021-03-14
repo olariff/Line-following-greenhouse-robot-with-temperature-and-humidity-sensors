@@ -1,15 +1,24 @@
 # Team Implementation Report
  
 Contents:
-* [Product Overview]()
+* [Overview]()
     - [Logic Diagram]()
     - [Pseudocode]() 
 * [Technical Description]()
        
+---
 
-#### Product Overview
+#### Overview
+[Greenhouse-Bot Master Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Code_Updates/Master_Code.c)   
+* Greenhouse-Bot is an autonomous car designed to follow a pre-determined route and continually monitor temperatures and humidities inside commercial greenhouses to ensure optimal ambient conditions are maintained.
+* The car features a rear drive motor capable of moving the 
+* Infrared sensing is used to detect deviations from its intended course.
+* Ultrasonic sensing 
+
+	- The product is built on the Mbed LPC1768 Microcontroller platform, which coordinates sensor data  
 
 #### Logic Diagram
+
 <img src="Final_Report/Images/flow_chart.png" alt="Program flow chart." width="1200" height="1000">
 
 #### Pseudocode   
@@ -35,6 +44,7 @@ int main(){
 			check distance to obstacle;
 }
 ```
+---
 # Technical Description
 This section should describe the software implementation in prose form. 
 Focus on how the code was designed and built.
