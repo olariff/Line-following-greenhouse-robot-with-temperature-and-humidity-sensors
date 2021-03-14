@@ -53,14 +53,12 @@
 ## ROBERT LEEDHAM 
 
 ### Sprint 5 (Week 20 & 21):
-- 
--
--
-
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-136) involved creating a first edit of our project's master code and was jointly completed by myself, Ahmad, and Sagar. The team members met for a 2 hour stand-up meeting where we discussed sensor unit code and implemented their functionality to form a [skeleton code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Software/Code_Updates/Robert/Master_Code.c).
+   
 ### Sprint 6 (Week 22 & 23):
 
-- 
--
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-145) was created by Ahmad and assigned to myself. The work required the production of technical documentation for the RCCar7 code and took approximately 5 hours to complete. The document can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md). 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-152) was created and initially left unassigned for a member of team to take responsibility for. The work required a draft of the testing report to be produced. I assigned this story to myself and produced the draft work - this involved producing and recording unit tests and results for each of the product's components. The draft took approximately 10 hours to complete and can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Testing_Report.md). 
 -
 
 ### Sprint 7 (Week 24 & 25):
