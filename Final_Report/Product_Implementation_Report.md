@@ -8,14 +8,16 @@ Contents:
        
 ---
 
-#### Overview
+#### Overview   
 [Greenhouse-Bot Master Code](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Code_Updates/Master_Code.c)   
-* Greenhouse-Bot is an autonomous car designed to follow a pre-determined route and continually monitor temperatures and humidities inside commercial greenhouses to ensure optimal ambient conditions are maintained.
-* The car features a rear drive motor capable of moving the 
-* Infrared sensing is used to detect deviations from its intended course.
-* Ultrasonic sensing 
-
-	- The product is built on the Mbed LPC1768 Microcontroller platform, which coordinates sensor data  
+* Greenhouse-Bot is an autonomous solution to ensuring optimal ambient temperatures and humidities are maintained inside commercial greenhouses.
+* The design is adapted from a conventional RC car: featuring a rear drive motor and forward servo motor for independent velocity and steering adjustments, and an onboard Mbed LPC1768 Microcontroller for coordinating and executing programmable logic instructions.   
+* When deployed: 
+	- the car follows a pre-determined route marked on the floor with the aid of two [infrared sensors](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md). 
+	- ambient temperatures and humidities are monitored using a [HTU21D Temperature and Humidity sensor](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md). 
+	- obstacle detection is faciliatated by an [ultrasonic](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md) sensor.
+* In the event the Greenhouse-Bot detects temperatures or humidities outside optimal ranges, or encounters an obstacle, an alarm will be sounded.
+ 
 
 #### Logic Diagram
 
