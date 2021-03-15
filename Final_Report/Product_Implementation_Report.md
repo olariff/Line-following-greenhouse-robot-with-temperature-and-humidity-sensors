@@ -19,11 +19,13 @@ Contents:
 * In the event the Greenhouse-Bot detects temperatures or humidities outside optimal ranges, or encounters an obstacle, an alarm will be sounded.
  
 
-#### Logic Diagram
-
+#### Logic Diagram   
+The below diagram illustrates the operational logical flow processes of the Greenhouse-Bot.   
+   
 <img src="Final_Report/Images/flow_chart.png" alt="Program flow chart." width="1200" height="1000">
 
-#### Pseudocode   
+#### Pseudocode  
+The following pseudocode describes the operational logical processes of the Greenhouse-Bot.    
 ```
 int main(){
 	set car velocity;
