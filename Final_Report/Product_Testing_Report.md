@@ -10,6 +10,8 @@ Contents:
     - [Ultrasonic Sensing](#ultrasonic-sensing)   
     - [Speaker Output](#speaker-output)   
 * [Part 2: Integration Testing](#part-2-integration-testing)
+    - [Velocity/Steering, Infrared, and Ultrasonic]()
+    - [Temperature/Humidity & Speaker Output](#temperaturehumidity-and-speaker-output)
 
 
 
@@ -200,10 +202,68 @@ Results:
 
 
 ---
+---
 ### Part 2: Integration Testing    
 
 <img src="Final_Report/Images/intTestModules.jpeg" alt="intTestModules" width="50%">   
 
-Integration testing allows related modules to be combined and tested together before further integration is completed. 
+Integration testing allows related modules to be combined and tested together before being added into a final and complete system. For out project there are two main areas we would like have tested:
+* Velocity/Steering, Infrared, and Ultrasonic    
+* Temperature/Humidity, and Speaker Output   
+   
+It has not been possible to simulate or carry out these tests; this section details how the proposed tests could have been carried out.   
+   
+
+---
+   
+#### _Velocity/Steering, Infrared, and Ultrasonic_
+This integrated system will control the car's movement as in follows its guideline and encounters potential obstructions.    
+   
+
+---
 
 
+#### _Temperature/Humidity and Speaker Output_   
+This integrated system should detect temperatures and humidities outside of the desired ranges:   
+* For temperature this is is anything outside of 15°C - 30°C.   
+* For humidity this is anything outside of 60% - 75%.   
+
+To test this functionality, it would be necessary to connect the speaker and sensor to the Mbed controller, and expose the the sensor to different environmental conditions. For temperatures, this could be done by using a hair dryer to warm the sensor above 30°C, or (season permitting) testing outside on a cool day below 15°C.   
+For humidities, this could be done by testing in a small room while a saucepan of water boils nearby (to create localised high humidity) or near a dehumidifier (to create localised low humidity). 
+   
+Proposed driver code:   
+```
+
+#include "HTU21D.h"
+#include "mbed.h"
+
+PwmOut speaker(p23);
+HTU21D temphumid(p9, p10);
+
+// play a tone
+void play_tone(float frequency, float volume, int interval, int rest) {
+    speaker.period(1.0 / frequency);
+    speaker = volume;
+    wait(interval);
+    speaker = 0.0;
+    wait(rest);
+}
+
+// Main body
+int main(){
+
+    // if temp/humidity outside of range: play warning tone from speaker
+    while(1){
+        while (temphumid.sample_ctemp() > 30 ||temphumid.sample_ctemp() < 15|| temphumid.sample_humid() > 0.75 ||temphumid.sample_humid() < 0.60 ){
+            play_tone(200.0, 0.5, 1, 0);
+            wait_ms(500);
+        }   
+    }   
+}
+
+```
+---
+---
+### Part 3: System Testing
+
+<img src="Final_Report/Images/systemTestModules.jpeg" alt="systemTestModules" width="50%">   
