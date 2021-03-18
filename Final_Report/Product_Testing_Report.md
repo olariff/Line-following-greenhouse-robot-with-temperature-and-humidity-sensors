@@ -219,7 +219,18 @@ It has not been possible to simulate or carry out these tests; this section deta
 ---
    
 #### _Velocity/Steering, Infrared, and Ultrasonic_
-This integrated system will control the car's movement as in follows its guideline and encounters potential obstructions.    
+This integrated system will control the car's movement as in follows its guideline and encounters potential obstructions: 
+* The IR sensors should be able to detect if the car turns off course and begins to cross the guideline. 
+    - In response the car's steering angle should be adjusted to correct the deviation.
+* The ultrasonic sensor should continually check for obstructions within a given range, for instance 50cm.
+    - In response the car's velocity should be brought to zero.   
+       
+As this is a core system, ideally this would be tested on the car itself by connecting the sensors to the Mbed controller and mounting them in the intended locations on the car.   
+The car would then be tested in the following scenarios: 
+* following a straight line without obstacles.
+* following a straight line with obstacles.
+* following a curved line without obstacles.
+* following a curved line with obstacles.
    
 
 ---
@@ -268,4 +279,6 @@ int main(){
 ---
 ### Part 3: System Testing
 
-<img src="Final_Report/Images/systemTestModules.jpeg" alt="systemTestModules" width="50%">   
+<img src="Final_Report/Images/systemTestModules.jpeg" alt="systemTestModules" width="50%">    
+   
+System testing would be the first time all modules of the product would be combined and would reveal how fit for function the product actually is. The above diagram shows how each module relates to each other, with sensors relaying information to the Mbed microcontroller and ultimately influencing other modules.
