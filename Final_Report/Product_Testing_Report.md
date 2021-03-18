@@ -10,8 +10,10 @@ Contents:
     - [Ultrasonic Sensing](#ultrasonic-sensing)   
     - [Speaker Output](#speaker-output)   
 * [Part 2: Integration Testing](#part-2-integration-testing)
-    - [Velocity/Steering, Infrared, and Ultrasonic]()
+    - [Velocity/Steering, Infrared, and Ultrasonic](#velocitysteering-infrared-and-ultrasonic)
     - [Temperature/Humidity & Speaker Output](#temperaturehumidity-and-speaker-output)
+* [Part 3: System Testing](#part-3-system-testing)
+
 
 
 
