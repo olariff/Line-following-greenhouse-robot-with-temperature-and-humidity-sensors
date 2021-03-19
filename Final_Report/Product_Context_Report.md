@@ -51,4 +51,6 @@ Although, every aspect of what is ethically acceptable/unacceptable cannot be co
 
 # References
 
-[1]"Workplace robotics safety - Wikipedia", En.wikipedia.org, 2021. [Online]. Available: https://en.wikipedia.org/wiki/Workplace_robotics_safety. [Accessed: 19- Mar- 2021].
+[1]"Workplace robotics safety - Wikipedia", En.wikipedia.org, 2021. [Online]. Available: https://en.wikipedia.org/wiki/Workplace_robotics_safety. [Accessed: 9- Mar- 2021].
+
+[2]S. Team, "5 types of software licenses you need to understand | Synopsys", Software Integrity Blog, 2021. [Online]. Available: https://www.synopsys.com/blogs/software-security/5-types-of-software-licenses-you-need-to-understand/. [Accessed: 9- Mar- 2021].
