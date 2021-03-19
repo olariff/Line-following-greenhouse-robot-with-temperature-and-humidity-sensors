@@ -50,3 +50,5 @@ Although, every aspect of what is ethically acceptable/unacceptable cannot be co
 
 
 # References
+
+[1]"Workplace robotics safety - Wikipedia", En.wikipedia.org, 2021. [Online]. Available: https://en.wikipedia.org/wiki/Workplace_robotics_safety. [Accessed: 19- Mar- 2021].
