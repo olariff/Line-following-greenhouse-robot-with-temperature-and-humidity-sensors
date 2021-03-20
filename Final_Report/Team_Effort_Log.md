@@ -68,3 +68,21 @@
 ---
 ---
 
+## HARSH Project_Management_Log
+
+### Sprint 5 (Week 20 & 21):
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-135) was created after the weekly team meeting we conducted. In this meeting we discussed the task in much more detail and did some [research]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Hardware/EAGLE/Project/Team_01_Mbed_5.rar
+). The research result in 2 links that were helpful in understanding the software and how it operates. 
+
+
+### Sprint 6 (Week 22 & 23):
+
+-	[This story]( https://cseejira.essex.ac.uk/browse/A293011-155) was created after the weekly team meeting. We raised an issue to Organize [GitLab repository]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/) for the final submission. I completed this issue during the meeting by sharing my screen with the other members. 
+
+-	[This story](https://cseejira.essex.ac.uk/browse/A293011-164) was created after the weekly team meeting. During this the markdown document for the [team implementation report]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Implementation_Report.md) were created according to the draft template and then have been worked on by multiple people.
+
+-	[This story]( https://cseejira.essex.ac.uk/browse/A293011-153) was created after the weekly team meeting. During this the markdown document for the [Context]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Context_Report.md) were created according to the draft template and then have been worked on by myself and sherrif.
+
+
+
