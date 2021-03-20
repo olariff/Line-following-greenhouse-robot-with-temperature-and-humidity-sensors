@@ -92,7 +92,7 @@
 
 ### Sprint 5 (Week 20/21)
 
--   [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was worked on together by four members of the team. The main aim was building the circuit along with the implementation of the various sensors. Research was conducted beforehand.
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was worked on together by four members of the team. The main aim was building the circuit along with the implementation of the various sensors using the EAGLE software. Research was conducted during this sprint and various libraries were used to accomplish this task..
 
 
 ### Sprint 6 (Week 22/23)
