@@ -94,5 +94,8 @@
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was worked on together by four members of the team. The main aim was building the circuit along with the implementation of the various sensors using the EAGLE software. Research was conducted during this sprint and various libraries were used to accomplish this task..
 
-
 ### Sprint 6 (Week 22/23)
+
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-164) was worked on by four members of the team, including myself, and simply includes the technical details of the implementation of the project.
+
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-153) involves the context of the report. It mainly deals with the health & safety, legal and ethical concerns involving the project. This task was successfully completed using contibutions from myself and Harsh Patel.
