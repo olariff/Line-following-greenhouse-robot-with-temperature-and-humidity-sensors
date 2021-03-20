@@ -90,6 +90,7 @@
 
 ### Sprint 5 (Week 20/21)
 
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was worked on together by four members of the team. The main aim was building the circuit along with the implementation of the various sensors. Research was conducted beforehand.
 
 
 ### Sprint 6 (Week 22/23)
