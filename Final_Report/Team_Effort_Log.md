@@ -30,17 +30,16 @@
 ## SAGAR KANDEL 
 
 ### Sprint 5 (Week 20 & 21):
-- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-139) was assigned by Ahmad and compleated by Sagar in sprint 5. This is a subtask of a story. The task involved creating a skeleton code, building a foundation for the final code. This story has been done by Ahmad, Sagar and Robert. Sagar spent 3 hours in his contribution towards this skeleton code. This task has 20 story points and it had a medium priority. The permalink of the commit in GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Software/Code_Updates/Master_Code.c).
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-139) was assigned by Ahmad and compleated by me in sprint 5. This is a subtask of a story. The task involved creating a skeleton code, building a foundation for the final code. This story has been done by Ahmad, myself and Robert. I spent 3 hours in his contribution towards this skeleton code. This task has 20 story points and it had a medium priority. The permalink of the commit in GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Software/Code_Updates/Master_Code.c).
 
 ### Sprint 6 (Week 22 & 23):
 
-- [This story](https://cseejira.essex.ac.uk/browse/A293011-144) was assigned by Robert and compleated by Sagar in sprint 6. This story involved creating a top level README.md file. The top level README.md file contains the abstract and table of contents. Sagar spent 30 minutes writing the abstract and creating the table of contents. The task has 4 story points and has a medium priority. The permalink of the commit in the GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/README.md). 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-144) was assigned by Robert and compleated by myself in sprint 6. This story involved creating a top level README.md file. The top level README.md file contains the abstract and table of contents. I spent 30 minutes writing the abstract and creating the table of contents. The task has 4 story points and has a medium priority. The permalink of the commit in the GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/README.md). 
 
-- These stories [1(temperature and humidity sensor)](https://cseejira.essex.ac.uk/browse/A293011-146), [2(speaker)](https://cseejira.essex.ac.uk/browse/A293011-182), [3(ultrasonic sensor)](https://cseejira.essex.ac.uk/browse/A293011-158) and [4(IR sensor)](https://cseejira.essex.ac.uk/browse/A293011-181) was assined and compleated by Sagar. Story 1(temperature and humidity sensor), 2(speaker), 3(ultrasonic sensor) and 4(IR sensor) are unit test codes. Sagar spent around 3 hours 10 minutes writing the code for the individual components used for the final project. The unit test stories for the 1(temperature and humidity sensor) and 3(ultrasonic sensor) are 5 story points each. The unit test for the 2(speaker) is 2 story points and 4(IR sensor) is 4 story points. The stories are low to medium priority. The permalink of the commit in GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Product_Development/Software/Component_Unit_Test). 
+- These stories [temperature and humidity sensor](https://cseejira.essex.ac.uk/browse/A293011-146) (1), [speaker](https://cseejira.essex.ac.uk/browse/A293011-182) (2), [ultrasonic sensor](https://cseejira.essex.ac.uk/browse/A293011-158) (3) and [IR sensor](https://cseejira.essex.ac.uk/browse/A293011-181) (4) was assined and compleated by myself. Story 1 (temperature and humidity sensor), 2 (speaker), 3 (ultrasonic sensor) and 4 (IR sensor) are unit test codes. I spent around 3 hours 10 minutes writing the code for the individual components used for the final project. The unit test stories for 1 (temperature and humidity sensor) and 3(ultrasonic sensor) are 5 story points each. The unit test for 2 (speaker) is 2 story points and 4(IR sensor) is 4 story points. The stories are low to medium priority. The permalink of the commit in GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Product_Development/Software/Component_Unit_Test). 
 
-- technical documentation for temperature and humidity
-- technical document for speaker
-- technical document for IR sensor 
+- These stories are the technical documentation for the temperature and humidity (1), speaker (2) and IR sensor (3). The stories were assigned and compleated by myself. 
+
 
 ### Sprint 7 (Week 24 & 25):
 - draft for the product demonstrates report
@@ -58,6 +57,7 @@
 ### Sprint 6 (Week 22 & 23):
 
 - [This story](https://cseejira.essex.ac.uk/browse/A293011-145) was created by Ahmad and assigned to myself. The work required the production of technical documentation for the RCCar7 code and took approximately 5 hours to complete. The document can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md). 
+
 - [This story](https://cseejira.essex.ac.uk/browse/A293011-152) was created and initially left unassigned for a member of team to take responsibility for. The work required a draft of the testing report to be produced. I assigned this story to myself and produced the draft work - this involved producing and recording unit tests and results for each of the product's components. The draft took approximately 10 hours to complete and can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Testing_Report.md). 
 -
 
