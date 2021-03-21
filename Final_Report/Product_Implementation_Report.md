@@ -5,6 +5,10 @@ Contents:
     - [Logic Diagram]()
     - [Pseudocode]() 
 * [Technical Description]()
+* [Hardware]()
+	- [Libraries]()
+	- [Schematic]()
+	- [PCB]()
        
 ---
 
@@ -88,3 +92,38 @@ List any 3rd party libraries that were used and describe what functionality they
 List any known issues (bugs) in your software, and describe workarounds if they exist.
 
 The code cannot be tested due to current pandamic. Limited access to hardware. 
+
+---
+
+# Hardware
+
+Due to the ongoing COVID-19 pandamic we werer unable to produce a hardware solution for our product. However to overcome this issue we have created a schematic using the EAGLE autocad software. The EAGLE software has allowed us to create a schematic and a PCB that can be used to create the actaul harware if the correct components are used.
+
+## Libraries
+
+To create the schematic we have had to use some 3rd party libraries.
+Here are the libraries used and the components used from them.
+
+* diy-modules.lbr:
+	- Ultrasonic Ranging Moule HC-SR04
+	- Digital Humidity & Temperature Sensor HTU21D
+	
+
+* MBED_v2.1.lbr:
+	- mbed Microcontroller
+
+
+* SparkFun-Sensors.lbr:
+	- Reflective object sensor x2
+
+
+* SparkFun-Connectors.lbr:
+	- Power Jack
+
+## Schematic
+The figure below show the final Schematic design that we have created with all the components attached to the mbed board.
+<img src="Final_Report/Images/PCB_design.png" width="100%" height="100%">
+
+## PCB
+The figure below shows the final PCB desgin. This has been autorouted with 2 layers. The top trace is in red and the bottom trace is on blue.
+<img src="Final_Report/Images/PCB_printed_circuit_board.png" width="100%" height="100%">
