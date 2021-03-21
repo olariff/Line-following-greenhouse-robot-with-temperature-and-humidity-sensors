@@ -61,12 +61,16 @@
 - [This story](https://cseejira.essex.ac.uk/browse/A293011-145) was created by Ahmad and assigned to myself. The work required the production of technical documentation for the RCCar7 code and took approximately 5 hours to complete. The document can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Product_Development/Software/Technical_Documentations/RCCar7_Technical_Documentation.md). 
 
 - [This story](https://cseejira.essex.ac.uk/browse/A293011-152) was created and initially left unassigned for a member of team to take responsibility for. The work required a draft of the testing report to be produced. I assigned this story to myself and produced the draft work - this involved producing and recording unit tests and results for each of the product's components. The draft took approximately 10 hours to complete and can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Testing_Report.md). 
--
 
 ### Sprint 7 (Week 24 & 25):
-- 
--
--
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-178) involved finalising the draft of the Product Testing Report document before submission. This was assigned to me during the final sprint and the work took a further 3 hours to complete.
+   
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-177) involved finalising the draft of the Product Implementation Report document. I contributed by creating an overview section and including pseudocode that describes the program code. 
+   
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-200) required the completion of the slides and video for our final presentation. I was assigned to complete the section regarding the code implementation of our product, including navigation, obstacle detection, and temperature/humidity sensing. The work took approximately 5 hours t
+
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-193) required updating the team effort log with the work that was produced by each team member before the final deadline. 
+   
 ---
 ---
 
