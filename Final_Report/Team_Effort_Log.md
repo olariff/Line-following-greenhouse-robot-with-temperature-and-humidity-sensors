@@ -48,11 +48,11 @@
 
 - [This story](https://cseejira.essex.ac.uk/browse/A293011-174) was assigned by Ahmad and compleated by myself. The story involved the Final completion of the project demonstration report. Story was the highest priority and was worth 10 story points. I spent 1 day on this story. The story involved adding information to the product demonstrates report which related it to other files compleated by other team member and myself. Additionally, this was a continuation of the product demonstrates draft in sprint 6. Click [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Demonstration_Report.md) for the permalink to the project demonstrates report. 
 
-- product implementation report
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-177) was assigned by Ahmad and I contributed to this story in collaboration with Robert, Harsh and Sheriff. This story involved compleating the product implementation report. I spent 3 hours on the product implementation report. This story was a highest priority with 10 story points. My contribution included the logic diagram and imported libraries section. Click [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Implementation_Report.md) for the permalink to the GitLab. 
 
-- [This subtask]() required the completion of the slides and video for the final presentation. This subtask was assigned by Robert and compleated by myself. I was assigned to complete the front slide and the overview slide. This subtask took me 5 hours to complete.
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-197) required the completion of the slides and video for the final presentation. This subtask was assigned by Robert and compleated by myself. I was assigned to complete the first slide, project overview slide and contribute slide. This subtask took me 3 hours to complete. The subtask is highest priority and worth 10 story points. The link to the presentation is in the top README.md file and the link is to a OneDrive account with the presentation. Click [here](_____) for the permalink to the README.md file for the link to the presentation. 
 
-- [This subtask]() required updating the team effort log with the work that was produced by each team member before the final deadline. I spent 6 hours on compleating this subtask. 
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-190) involved updating the team effort log with the work that was produced by each team member before the final deadline. I spent 6 hours on compleating this subtask. This subtask was medium priority and the story to this subtask was highest priority with 10 story points. Click [here]() for the permalink to this task on GitLab. 
    
 
 ---
