@@ -25,16 +25,16 @@ In an indoor strawberry farm, it is crucial to maintain a constant temperature a
 
 # Presentation Link
 
-**_Ahmad  Jaghasi_**
+[**_Ahmad  Jaghasi's OneDrive Link_**](https://essexuniversity-my.sharepoint.com/:v:/g/personal/aj19687_essex_ac_uk/EZN8XiQr755IvOnxbT3zEMsBDx5mDXKrNR3bpXLV5Gtn6g)
 
-**_Robert Leedham_**
+**_Robert Leedham's OneDrive Link_**
 
-**_Sagar Kandel_**
+**_Sagar Kandel's OneDrive Link_**
 
-**_Harsh Patel_**
+**_Harsh Patel's OneDrive Link_**
 
-**_Sheriff Oladunjoye_**
+**_Sheriff Oladunjoye's OneDrive Link_**
 
-**_Hamad Al-Marri_**
+**_Hamad Al-Marri's OneDrive Link_**
 
-**_Darrel Widjaja_**
+**_Darrel Widjaja's OneDrive Link_**
