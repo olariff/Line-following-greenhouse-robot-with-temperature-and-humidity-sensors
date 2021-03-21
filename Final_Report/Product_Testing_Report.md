@@ -281,4 +281,5 @@ int main(){
 
 <img src="Final_Report/Images/systemTestModules.jpeg" alt="systemTestModules" width="50%">    
    
-System testing would be the first time all modules of the product would be combined and would reveal how fit for function the product actually is. The above diagram shows how each module relates to each other, with sensors relaying information to the Mbed microcontroller and ultimately influencing other modules.
+System testing would be the first time all modules of the product would be combined and would reveal how fit for function the product actually is.    
+The above diagram shows how each module relates to each other, with sensors relaying information to the Mbed microcontroller and ultimately influencing other modules.
