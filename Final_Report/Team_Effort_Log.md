@@ -70,29 +70,39 @@
 ---
 ---
 
-## HARSH Project_Management_Log
+## HARSH PATEL
 
 ### Sprint 5 (Week 20 & 21):
 
-- [This story](https://cseejira.essex.ac.uk/browse/A293011-135) was created after the weekly team meeting we conducted. In this meeting we discussed the task in much more detail and did some [research]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Hardware/EAGLE/Project/Team_01_Mbed_5.rar
-). The research result in 2 links that were helpful in understanding the software and how it operates. 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-135) was created after the weekly team meeting we conducted. In this meeting we discussed the task in much more detail and did some [research]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/d646d008737c5cf517649b7dbd6776472ccda779/Product_Development/Hardware/EAGLE/Project/Team_01_Mbed_5.rar). The research result in 2 links that were helpful in understanding the software and how it operates. We further met up for another standup meeting to discuss how to complete this task together.
 
 
 ### Sprint 6 (Week 22 & 23):
 
--	[This story]( https://cseejira.essex.ac.uk/browse/A293011-155) was created after the weekly team meeting. We raised an issue to Organize [GitLab repository]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/) for the final submission. I completed this issue during the meeting by sharing my screen with the other members. 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-155) was created after the weekly team meeting. We raised an issue to Organize [GitLab repository](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/) for the final submission. I completed this issue during the meeting by sharing my screen with the other members. 
 
--	[This story](https://cseejira.essex.ac.uk/browse/A293011-164) was created after the weekly team meeting. During this the markdown document for the [team implementation report]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Implementation_Report.md) were created according to the draft template and then have been worked on by multiple people.
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-164) was created after the weekly team meeting. During this the markdown document for the [team implementation report]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Implementation_Report.md) were created according to the draft template and then have been worked on by multiple people.
 
--	[This story]( https://cseejira.essex.ac.uk/browse/A293011-153) was created after the weekly team meeting. During this the markdown document for the [Context]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Context_Report.md) were created according to the draft template and then have been worked on by myself and sherrif.
+- [This story]( https://cseejira.essex.ac.uk/browse/A293011-153) was created after the weekly team meeting. During this the markdown document for the [Context]( https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Context_Report.md) were created according to the draft template and then have been worked on by myself and Sheriff Oladunjoye.
 
+### Sprint 7 (Week 24 & 25):
 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-179) was created after the weekly team meeting. This is for the [Product Context Report](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Context_Report.md) which during this sprint was to be completed. This task was successfully completed using contibutions from myself and Sheriff Oladunjoye.
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-177) was created after the weekly team meeting. This is for the [Product Implementation Report](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Implementation_Report.md) where the hardware used in the EAGLE software is discussed in further detail.
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-176) is to update the [Team effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Team_Effort_Log.md) document with each persons work that they have done. 
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-147) is to as a team work on a final video presentation that should be collaboratively be done by week 25. This involves every memeber of the team to work on this to complete this during a 2 hour stand up meeting.
+
+---
+---
 
 ## SHERIFF OLADUNJOYE
 
 ### Sprint 5 (Week 20/21)
 
--   [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was worked on together by four members of the team. The main aim was building the circuit along with the implementation of the various sensors using the EAGLE software. Research was conducted during this sprint and various libraries were used to accomplish this task..
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was worked on together by four members of the team. The main aim was building the circuit along with the implementation of the various sensors using the EAGLE software. Research was conducted during this sprint and various libraries were used to accomplish this task.
 
 ### Sprint 6 (Week 22/23)
 
