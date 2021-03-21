@@ -69,11 +69,10 @@ int main(){
 
 `#include "ultrasonic.h"`
 
-
-- **Temperature and humidity sensor technical documentation:**
-- **IR sensor technical documentation:**
-- **Ultrasonic sensor sensor technical documentation:**
-- **Speaker technical documentation:**
+- **Temperature and humidity sensor technical documentation:** [click here](Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md)
+- **IR sensor technical documentation:** [click here](Product_Development/Software/Technical_Documentations/IR_Sensor_Technical_Documentation.md)
+- **Ultrasonic sensor sensor technical documentation:** [click here](Product_Development/Software/Technical_Documentations/UltraSonic_Sensor_Technical_Documentation.md)
+- **Speaker technical documentation:** [click here](Product_Development/Software/Technical_Documentations/Speaker_Technical_Documentation.md)
 
 # Known Issues
 List any known issues (bugs) in your software, and describe workarounds if they exist.
