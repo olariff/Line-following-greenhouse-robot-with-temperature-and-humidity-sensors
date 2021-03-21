@@ -53,9 +53,6 @@ int main(){
 }
 ```
 ---
-# Technical Description
-
-
 
 # Imported Libraries
 
