@@ -109,3 +109,13 @@
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-164) was worked on by four members of the team, including myself, and simply includes the technical details of the implementation of the project.
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-153) involves the context of the report. It mainly deals with the health & safety, legal and ethical concerns involving the project. This task was successfully completed using contibutions from myself and Harsh Patel.
+
+
+## Hamad Almarri
+
+### sprint 5 (week 20 & 221)
+
+
+
+### sprint 6 (week 22 & 23)
+
