@@ -40,14 +40,21 @@
 
 - These stories [temperature and humidity sensor](https://cseejira.essex.ac.uk/browse/A293011-146) (1), [speaker](https://cseejira.essex.ac.uk/browse/A293011-182) (2), [ultrasonic sensor](https://cseejira.essex.ac.uk/browse/A293011-158) (3) and [IR sensor](https://cseejira.essex.ac.uk/browse/A293011-181) (4) was assined and compleated by myself. Story 1 (temperature and humidity sensor), 2 (speaker), 3 (ultrasonic sensor) and 4 (IR sensor) are unit test codes. I spent around 3 hours 10 minutes writing the code for the individual components used for the final project. The unit test stories for 1 (temperature and humidity sensor) and 3(ultrasonic sensor) are 5 story points each. The unit test for 2 (speaker) is 2 story points and 4(IR sensor) is 4 story points. The stories are low to medium priority. The permalink of the commit in GitLab can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Product_Development/Software/Component_Unit_Test). 
 
-- These stories are the technical documentation for the temperature and humidity (1), speaker (2) and IR sensor (3). The stories were assigned and compleated by myself. 
+- These stories are the technical documentation for the [temperature and humidity](https://cseejira.essex.ac.uk/browse/A293011-185), [speaker](https://cseejira.essex.ac.uk/browse/A293011-186) and [IR sensor](https://cseejira.essex.ac.uk/browse/A293011-183). The stories were assigned and compleated by myself. [Temperature and humidity](Product_Development/Software/Technical_Documentations/Temperature_and_Humidity_Sensor_Technical_Documentation.md) technical documentation took 5 hour to complete and it was worth 5 story points. The technical documentation for the [speaker](Product_Development/Software/Technical_Documentations/Speaker_Technical_Documentation.md) was 2 story points and took 30 minutes to complete. The technical documentation for the [IR sensor]() was worth 5 story points and was compleated in 3 hours. The stories were low to high priority. Click [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/tree/master/Product_Development/Software/Technical_Documentations) for the permalink to GitLab directory for the technical documentation. 
 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-148) was assigned by Ahmad and compleated by myself. This story involved producing a draft of the product demonstration report. The product demonstration report presents and provides a overview of the project. It explains the project in detail and provides referance to other report files. It aim is to explain to the viewer of the report what the project is about. The draft was worth 10 stories points and took 1 day, 2 hour to complete. This story was a high priority and was important to tie the while project together. Click [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Demonstration_Report.md) for the permalink to the project demonstration file in Gitlab. 
 
 ### Sprint 7 (Week 24 & 25):
-- draft for the product demonstrates report
-- final product demonstration report 
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-174) was assigned by Ahmad and compleated by myself. The story involved the Final completion of the project demonstration report. Story was the highest priority and was worth 10 story points. I spent 1 day on this story. The story involved adding information to the product demonstrates report which related it to other files compleated by other team member and myself. Additionally, this was a continuation of the product demonstrates draft in sprint 6. Click [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Demonstration_Report.md) for the permalink to the project demonstrates report. 
+
 - product implementation report
-- video presentation for project
+
+- [This subtask]() required the completion of the slides and video for the final presentation. This subtask was assigned by Robert and compleated by myself. I was assigned to complete the front slide and the overview slide. This subtask took me 5 hours to complete.
+
+- [This subtask]() required updating the team effort log with the work that was produced by each team member before the final deadline. I spent 6 hours on compleating this subtask. 
+   
+
 ---
 ---
 
