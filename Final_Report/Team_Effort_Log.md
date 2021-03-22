@@ -121,6 +121,13 @@
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-153) involves the context of the report. It mainly deals with the health & safety, legal and ethical concerns involving the project. This task was successfully completed using contibutions from myself and Harsh Patel.
 
+### Sprint 7 (Week 24 & 25)
+
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-177) was created to complete the markdown document product implementation section of the report.
+
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was created for every member to each record their section of the final video presentation, which will be recorded as a whole during a zoom meeting.
+
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-176) was created for the completion of the team effort log markdown document. This is a task for every member, highlighting their contribution towards the final project.
 
 ## Hamad Almarri
 
