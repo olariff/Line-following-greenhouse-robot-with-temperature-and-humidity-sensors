@@ -135,5 +135,7 @@
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was assigned to all team members, and I have completed my part as I should record my voice and explaining my slides in the presentation. It took 1 hour to be finished. 
 
+-    [This story](https://cseejira.essex.ac.uk/browse/A293011-150) was assigned to all team members. The task was for each team member should  complete the team Effort log markdown document for the final report.
+
 
 
