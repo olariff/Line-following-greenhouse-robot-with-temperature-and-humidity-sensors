@@ -130,7 +130,7 @@
 
 ### sprint 6 (week 22 & 23)
 
--    [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was assigned to me so that I have to write a product marketing plan for the final report, for example, describe how the 4Ps to our product and what customer would buy our product. The work is divided between Darrel and I.
+-    [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was assigned to me so that I have to write a product marketing plan for the final report, for example, describe how the 4Ps to our product and what customer would buy our product. The work was divided between Darrel and I.
 
 
 ### sprint 7 (week 24 & 25)
