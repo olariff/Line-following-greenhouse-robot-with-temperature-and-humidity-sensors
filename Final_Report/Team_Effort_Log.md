@@ -130,12 +130,12 @@
 
 ### sprint 6 (week 22 & 23)
 
+-    [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was assigned to me so that I have to write a product marketing plan for the final report, for example, describe how the 4Ps to our product and what customer would buy our product. The work is divided between Darrel and I.
+
 
 ### sprint 7 (week 24 & 25)
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was assigned to all team members, and I have completed my part as I should record my voice and explaining my slides in the presentation. It took 1 hour to be finished. 
 
 -    [This story](https://cseejira.essex.ac.uk/browse/A293011-150) was assigned to all team members. The task was for each team member should  complete the team Effort log markdown document for the final report.
-
-
 
