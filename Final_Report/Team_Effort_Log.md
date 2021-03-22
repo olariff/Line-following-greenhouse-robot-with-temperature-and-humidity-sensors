@@ -24,7 +24,7 @@
 
 * [This subtask](https://cseejira.essex.ac.uk/browse/A293011-188) was assigned and completed by Ahmad in sprint 7. It took (--) to be finished. It is a subtask of a story. It had 10 story points. This story is one of the highest priority issues. The task was to complete the team Effort log markdown document for the final report. The permalink of the last commit in gitlab can be found [here](--).
 
-* [This subtask](https://cseejira.essex.ac.uk/browse/A293011-195) was assigned and completed by Ahmad in sprint 7. It took (--) to be finished. It is a subtask of a story. It had 10 story points. This story is one of the highest priority issues. The task was to complete contribute towards preparing the video presentation.
+* [This subtask](https://cseejira.essex.ac.uk/browse/A293011-195) was assigned and completed by Ahmad in sprint 7. It took 5 hours to be finished. It is a subtask of a story. It had 10 story points. This story is one of the highest priority issues. The task was to contribute towards preparing the video presentation which is shown in this [link](https://essexuniversity-my.sharepoint.com/:v:/g/personal/aj19687_essex_ac_uk/EZN8XiQr755IvOnxbT3zEMsBDx5mDXKrNR3bpXLV5Gtn6g).
 
 ---
 ---
