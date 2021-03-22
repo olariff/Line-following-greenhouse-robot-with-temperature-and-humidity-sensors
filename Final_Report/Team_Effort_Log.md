@@ -70,13 +70,13 @@
 - [This story](https://cseejira.essex.ac.uk/browse/A293011-152) was created and initially left unassigned for a member of team to take responsibility for. The work required a draft of the testing report to be produced. I assigned this story to myself and produced the draft work - this involved producing and recording unit tests and results for each of the product's components. The draft took approximately 10 hours to complete and can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Testing_Report.md). 
 
 ### Sprint 7 (Week 24 & 25):
-- [This story](https://cseejira.essex.ac.uk/browse/A293011-178) involved finalising the draft of the Product Testing Report document before submission. This was assigned to me during the final sprint and the work took a further 3 hours to complete.
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-178) involved finalising the draft of the Product Testing Report document before submission. This was given the highest priority and was assigned to me during the final sprint. The report took a further 3 hours to complete and can be found [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Testing_Report.md).   
    
-- [This story](https://cseejira.essex.ac.uk/browse/A293011-177) involved finalising the draft of the Product Implementation Report document. I contributed by creating an overview section and including pseudocode that describes the program code. 
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-177) required finalising the draft of the Product Implementation Report document. This was given the highest priority but was left unassigned for multiple team members to add to. I contributed by creating an overview section and including pseudocode that describes the program code. This work took two hours to complete and the can be viewed [here](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Implementation_Report.md). 
    
-- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-200) required the completion of the slides and video for our final presentation. I was assigned to complete the section regarding the code implementation of our product, including navigation, obstacle detection, and temperature/humidity sensing. The work took approximately 5 hours t
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-200) required the completion of the slides and video for our final presentation. I was assigned to complete the section regarding the code implementation of our product, including navigation, obstacle detection, and temperature/humidity sensing. The work took approximately 5 hours to complete, and has been uploaded to OneDrive with a link added to the repository's top level readme file. The presentation can be viewed [here](https://essexuniversity-my.sharepoint.com/:v:/g/personal/rl19435_essex_ac_uk/ER3XM1xHcx1Ak8uWv1o9-6cBE7deHw4iCB3crZKrfL8Eaw).
 
-- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-193) required updating the team effort log with the work that was produced by each team member before the final deadline. 
+- [This subtask](https://cseejira.essex.ac.uk/browse/A293011-193) required updating the team effort log with the work that was produced by each team member before the final deadline.
    
 ---
 ---
