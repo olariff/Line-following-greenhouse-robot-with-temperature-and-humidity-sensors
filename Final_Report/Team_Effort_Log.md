@@ -126,12 +126,14 @@
 
 ### sprint 5 (week 20 & 21)
 
-
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-135) was assigned to me and some team members. We had a private meeting in the break between the classes we discussed in detail and built the PCB circuit on Eagle software.
 
 ### sprint 6 (week 22 & 23)
 
 
 ### sprint 7 (week 24 & 25)
+
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was assigned to all team members, and I have completed my part as I should record my voice and explaining my slides in the presentation. It took 1 hour to be finished. 
 
 
 
