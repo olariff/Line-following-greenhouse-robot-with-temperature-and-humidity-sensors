@@ -124,9 +124,14 @@
 
 ## Hamad Almarri
 
-### sprint 5 (week 20 & 221)
+### sprint 5 (week 20 & 21)
 
 
 
 ### sprint 6 (week 22 & 23)
+
+
+### sprint 7 (week 24 & 25)
+
+
 
