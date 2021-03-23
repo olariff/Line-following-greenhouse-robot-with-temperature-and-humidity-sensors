@@ -67,7 +67,7 @@ National funding and investments directed towards climate-neutral and zero carbo
 
 
 
-##References 
+## References 
 
 [1]Chouhan, N. Vig, H. Deshmukh, R. (2020). Smart Agriculture Market. Pune, In:  Allied Market Research.
 
