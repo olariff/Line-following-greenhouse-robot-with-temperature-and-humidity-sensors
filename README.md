@@ -37,4 +37,4 @@ In an indoor strawberry farm, it is crucial to maintain a constant temperature a
 
 **_Hamad Al-Marri's OneDrive Link_**
 
-**_Darrel Widjaja's OneDrive Link_**
+[**_Darrel Widjaja's OneDrive Link_**](https://essexuniversity-my.sharepoint.com/:v:/g/personal/aj19687_essex_ac_uk/EZN8XiQr755IvOnxbT3zEMsBDx5mDXKrNR3bpXLV5Gtn6g?e=PLa6pD)
