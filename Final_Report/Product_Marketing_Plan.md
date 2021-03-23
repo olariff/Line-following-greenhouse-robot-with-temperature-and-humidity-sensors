@@ -54,7 +54,7 @@ Place: The Path Finder product channel of propagation will comprise both online 
 Promotion: Along with it, the online and real-world selling, the promotion methods will include digital marketing promotions, attaching government funds and subsidies to the product purchase options. Real-world marketing will involve attending events and conferences of technology and innovations within the future farming realm. It ground marketing will also involve orientation and awareness programs regarding the benefits of the use of technology in urban setup and the opportunities in the current and future smart farming market. The current world marketing and  promotion tactics are primary to the greater product awareness, brand development and  product percolation. It also act as an important feedback mechanism through customer engagement to develop the product (Bhasin, 2019; FarmingUK, 2019; Sherriff, 2020; Strickler, 2020). The overall emphasis will be increasing customer engagement and creating a feedback-back beneficial ecosystem, essential for the next iteration of product development. 
 
 
-## customer
+## Target consumer analysis
 
 The primary customer for the UK market comprises traditional farmers seeking ways to improve farming with limited workers and curtail the rising product costs. 
 National Farmers Union push towards reducing the reliance on strawberry imports.
