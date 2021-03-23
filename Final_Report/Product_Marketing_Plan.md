@@ -50,3 +50,16 @@ Place: The Path Finder product channel of propagation will comprise both online 
 Promotion: Along with it, the online and real-world selling, the promotion methods will include digital marketing promotions, attaching government funds and subsidies to the product purchase options. Real-world marketing will involve attending events and conferences of technology and innovations within the future farming realm. It ground marketing will also involve orientation and awareness programs regarding the benefits of the use of technology in urban setup and the opportunities in the current and future smart farming market. The current world marketing and  promotion tactics are primary to the greater product awareness, brand development and  product percolation. It also act as an important feedback mechanism through customer engagement to develop the product (Bhasin, 2019; FarmingUK, 2019; Sherriff, 2020; Strickler, 2020). The overall emphasis will be increasing customer engagement and creating a feedback-back beneficial ecosystem, essential for the next iteration of product development. 
 
 
+## customer
+
+The primary customer for the UK market comprises traditional farmers seeking ways to improve farming with limited workers and curtail the rising product costs. 
+National Farmers Union push towards reducing the reliance on strawberry imports.
+
+Urban Farmers relying on greenhouse and vertical farming to extract more from less space and importantly expand the seasons of growth. 
+
+Big market players such as M&S and Ocado with heavy investments are serious potential customers. ValeFresc and Saturn have successfully explored vertical farming and open potential large market space for Parth Finder Bot (FarmingUK, 2019; Sherriff, 2020). 
+
+National funding and investments directed towards climate-neutral and zero carbon footprint projects targeting large-scale greenhouse and vertical farming projects (Strickler, 2020). 
+
+
+
