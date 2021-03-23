@@ -34,7 +34,11 @@ The key factors and trends in the target market is due to the increasing demand 
 
 Other products that are currently on the market are autonomous food delivery robots implemented in various restaurants around the world, mainly in Asia. One example of this is a food delivery robot made by Panasonic that is currently being used in a largely popular chinese hotpot restaurant chain across the world.
 
-Advantages that our product can offer over the competition are: ???
+There are various IoT-based smart agriculture monitoring systems in the market comprising sensors and concepts such as the UbiBit, Arduino project hub, be-bots, and Avnet’s Smart Greenhouse Monitoring Solution to name a few important ones. However, most are limited in its movement and are static monitoring devices.  The systems provide monitoring of temperature, humidity, and other aspects of smart farming and greenhouse with IoT functionality.
+
+USP: The unique selling proposition of Path Fingers is that it offers more accurate monitoring of temperature and humidity as it can move around the Greenhouse. The price point is another advantage of the Path Finder Bot. GBP 750
+
+
 
 
 ## Marketing Mix 4 P’s
