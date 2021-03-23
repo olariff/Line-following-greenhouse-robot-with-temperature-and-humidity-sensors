@@ -131,18 +131,18 @@
 
 ## Hamad Almarri
 
-### sprint 5 (week 20 & 21)
+### Sprint 5 (week 20 & 21)
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-135) was assigned to me and some team members. We had a private meeting in the break between the classes we discussed in detail and built the PCB circuit on Eagle software.
 
-### sprint 6 (week 22 & 23)
+### Sprint 6 (week 22 & 23)
 
 -    [This story](https://cseejira.essex.ac.uk/browse/A293011-154) was assigned to me so that I have to write a product marketing plan for the final report, for example, describe how the 4Ps to our product and what customer would buy our product. The work was divided between Darrel and I.
 
 
-### sprint 7 (week 24 & 25)
+### Sprint 7 (week 24 & 25)
 
--   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was assigned to all team members, and I have completed my part as I should record my voice and explaining my slides in the presentation. It took 1 hour to be finished. 
+-   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was assigned to all team members, and I have completed my part as I should record my part and explaining my slides in the presentation. It took 1 hour to be finished. 
 
 -    [This story](https://cseejira.essex.ac.uk/browse/A293011-150) was assigned to all team members. The task was for each team member should  complete [the team Effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Team_Effort_Log.md) markdown document for the final report.
 
