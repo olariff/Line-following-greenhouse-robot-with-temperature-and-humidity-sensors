@@ -128,7 +128,8 @@
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-147) was created for every member to each record their section of the final video presentation, which will be recorded as a whole during a zoom meeting.
 
 -   [This story](https://cseejira.essex.ac.uk/browse/A293011-176) was created for the completion of the team effort log markdown document. This is a task for every member, highlighting their contribution towards the final project.
-
+---
+---
 ## Hamad Almarri
 
 ### Sprint 5 (week 20 & 21)
