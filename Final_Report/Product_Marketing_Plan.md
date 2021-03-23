@@ -61,29 +61,10 @@ National Farmers Union push towards reducing the reliance on strawberry imports.
 
 Urban Farmers relying on greenhouse and vertical farming to extract more from less space and importantly expand the seasons of growth. 
 
-Big market players such as M&S and Ocado with heavy investments are serious potential customers. ValeFresc and Saturn have successfully explored vertical farming and open potential large market space for Parth Finder Bot [5],[8].
+Big market players such as M&S and Ocado with heavy investments are serious potential customers. ValeFresc and Saturn have successfully explored vertical farming and open potential large market space for Parth Finder Bot [5],[3].
 
 National funding and investments directed towards climate-neutral and zero carbon footprint projects targeting large-scale greenhouse and vertical farming projects [7]. 
 
 
 
 ## References 
-
-[1]Chouhan, N. Vig, H. Deshmukh, R. (2020). Smart Agriculture Market. Pune, In:  Allied Market Research.
-
-[2]Darji, C. (2021). IoT Based Sensor for Humidity and Temperature Measurement in Smart HVAC Systems. International Journal of Recent Technology and Engineering, 9(5), 3. DOI: 10.35940/ijrte.E5125.019521.
-
-[3]FarmingUK. (2019). UK start-up aims to build over forty vertical farms.  Retrieved on 11 March, 2021, from, UK start-up aims to build over forty vertical farms - FarmingUK News
-
-[4]GeniaTech. (2020). Smart Farming. Retrieved on 11 March, 2021, from, https://www.geniatech.com/solution/smart-farming/. 
-
-[5]Sherriff, L. (2020). Making Vertical Farming Big In The U.K. Retrieved on 11 March, 2021, from, https://www.forbes.com/sites/lucysherriff/2020/02/16/making-vertical-farming-big-in-the-uk/?sh=7bb77cf3707a
-
-[6]Solanki, A. (2019). How IoT is changing the paradigm of greenhouse. Retrieved on 11 March, 2021, from, https://www.softwebsolutions.com/resources/smart-greenhouse-monitoring-solution.html.
-
-[7]Strickler, J. (2020). High-Tech Greenhouses Could Be The Future Of Agriculture. Forbes. Retrieved on 11 March, 2021, from, https://www.forbes.com/sites/jordanstrickler/2020/08/28/high-tech-greenhouses-could-be-the-future-of-agriculture/?sh=66b600a5380f
-
-[8]Wheeler, B. (2018). Brexit and the booming British strawberry. BBC. Retrieved on 11 March, 2021, from, Brexit and the booming British strawberry - BBC News
-
-
-
