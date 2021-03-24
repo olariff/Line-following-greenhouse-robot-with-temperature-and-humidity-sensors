@@ -147,3 +147,21 @@
 
 -    [This story](https://cseejira.essex.ac.uk/browse/A293011-150) was assigned to all team members. The task was for each team member should  complete [the team Effort log](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Team_Effort_Log.md) markdown document for the final report.
 
+
+
+## Darrel Widjaja
+
+### Sprint 5 (Week 20 & 21)
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-135) was assigned to members of the hardware team. It was to have a meeting among ourselves in order to do research and attempt to create the EAGLE schematic.
+
+### Sprint 6 (Week 22 & 23)
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-155) was created for all team members to reorganise and tidy up the GitLab repository to prepare it for the final submission.
+
+- [This sub-task](https://cseejira.essex.ac.uk/browse/A293011-156) was assigned to me to create a markdown document for the [Product Marketing Plan](https://cseegit.essex.ac.uk/2020_ce293/ce293_team01/-/blob/master/Final_Report/Product_Marketing_Plan.md) for the final report. This document was worked on by Hamad and myself.
+
+### Sprint 7 (Week 24 & 25)
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-201) was to create a video presenting the powerpoint slides of our product, describing what our product does and the algorithm behind it. Each member explained their slide which describes the idea behind the product.
+
+- [This story](https://cseejira.essex.ac.uk/browse/A293011-169) was assigned to me to complete my part for the team effort log, which would be submitted with the final report.
+
