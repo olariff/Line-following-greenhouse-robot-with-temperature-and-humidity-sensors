@@ -9,9 +9,9 @@
 
 ## Market Research
 
-Greenhouse farming and vertical farming are two of the most rapidly growing markets around the world and have shown similar growth in the UK market. Smart farming comprises the use of technology such as AI, Internet of Things IoT, bots, vertical farming, and drones to control and monitor the farming environment to generate agricultural produce in urban setup and also on large-scale farming. The primary advantage of Greenhouse farming comprises the ability to control it offers in regulating the components such as light, temperature, and humidity, which are vital to produce healthy and high-quality agricultural produce. Path Finder Bot is designed to directly address the primary challenges faced by traditional greenhouses that are temperature control and monitoring and humidity control and monitoring [2],[6]. 
+Greenhouse farming and vertical farming are two of the most rapidly growing markets around the world and have shown similar growth in the UK market. Smart farming comprises the use of technology such as AI, Internet of Things IoT, bots, vertical farming, and drones to control and monitor the farming environment to generate agricultural produce in urban setup and also on large-scale farming. The primary advantage of Greenhouse farming comprises the ability to control it offers in regulating the components such as light, temperature, and humidity, which are vital to produce healthy and high-quality agricultural produce. Path Finder Bot is designed to directly address the primary challenges faced by traditional greenhouses that are temperature control and monitoring and humidity control and monitoring [3],[7]. 
 
-The global smart farming market is poised to grow by 9.7 percent (CAGR) to reach $29 Billion by 2027 [1]. Along with Greenhouse, vertical farming is set to grow by 12 percent to reach a market cap of $16 billion by 2025. Both the market are potential Path Finder Bot market with heavy reliance on temperature and humidity control because of the indoor and enclosed farming setup [3]. There are several other economic and socio-political factors driving the UK smart farming market. 
+The global smart farming market is poised to grow by 9.7 percent (CAGR) to reach $29 Billion by 2027 [2]. Along with Greenhouse, vertical farming is set to grow by 12 percent to reach a market cap of $16 billion by 2025. Both the market are potential Path Finder Bot market with heavy reliance on temperature and humidity control because of the indoor and enclosed farming setup [4]. There are several other economic and socio-political factors driving the UK smart farming market. 
 
 
 ## Identifying target market & consumers
@@ -43,15 +43,15 @@ USP: The unique selling proposition of Path Fingers is that it offers more accur
 
 ## Marketing Mix 4 P’s
 
-Product: Path Finder Bot offers a unique temperature and humidity monitoring and control mechanism for the indoor farming environment such as greenhouse and vertical farming. There exist much monitoring and controlling devices in the market, however, the unique selling proposition of the Path Finder is its ability of moving around and collect monitoring data to map with the prescribed climatic conditions necessary for the particular crop. The device functions on lines to move across and have a high-resolution monitor. The speed can be controlled and provides easy manoeuvring across the farm setup [8].
+Product: Path Finder Bot offers a unique temperature and humidity monitoring and control mechanism for the indoor farming environment such as greenhouse and vertical farming. There exist much monitoring and controlling devices in the market, however, the unique selling proposition of the Path Finder is its ability of moving around and collect monitoring data to map with the prescribed climatic conditions necessary for the particular crop. The device functions on lines to move across and have a high-resolution monitor. The speed can be controlled and provides easy manoeuvring across the farm setup [1].
 
-The hardware comprises high grade and minimalist design that touches upon retro neo design language. The user controls on the bot are smooth and robust considering the environment inside the enclosed setup of greenhouse and vertical farming. The software is highly user-friendly and has various functionalities and analysis based on the temperature and humidity data for critical management of crops [8],[4]
+The hardware comprises high grade and minimalist design that touches upon retro neo design language. The user controls on the bot are smooth and robust considering the environment inside the enclosed setup of greenhouse and vertical farming. The software is highly user-friendly and has various functionalities and analysis based on the temperature and humidity data for critical management of crops [1],[5]
 
-Price: Price point is another important aspect of a product as it attaches the utility to the price. The Path Finder Bot is marketing at an attractive price point of GBP £750, having contemporary design, superior build quality. The price will include the yearlong service and warranty on the product hardware and a two-year software update. However, the new analysis and performance dashboards are subjected to different pricing as per the requirements. Having the right price point plays an important role in the future of the product. The  GBP £750 price point of Path Finder allows it stay above the competition in terms of product and service  on offers. It also keeps in a market just below the premium product market, however matches the manufacturing and functionality of the premium products [8]. 
+Price: Price point is another important aspect of a product as it attaches the utility to the price. The Path Finder Bot is marketing at an attractive price point of GBP £750, having contemporary design, superior build quality. The price will include the yearlong service and warranty on the product hardware and a two-year software update. However, the new analysis and performance dashboards are subjected to different pricing as per the requirements. Having the right price point plays an important role in the future of the product. The  GBP £750 price point of Path Finder allows it stay above the competition in terms of product and service  on offers. It also keeps in a market just below the premium product market, however matches the manufacturing and functionality of the premium products [1]. 
 
 Place: The Path Finder product channel of propagation will comprise both online and real-world marketing. The digital marketplace will involve the use of social media platforms such as Facebook, Twitter, and Instagram concentrating on urban farming, vertical farming, and smart farming groups. It will offer direct interaction with the company executives for information and purchase. Along with online medium, the 
 
-Promotion: Along with it, the online and real-world selling, the promotion methods will include digital marketing promotions, attaching government funds and subsidies to the product purchase options. Real-world marketing will involve attending events and conferences of technology and innovations within the future farming realm. It ground marketing will also involve orientation and awareness programs regarding the benefits of the use of technology in urban setup and the opportunities in the current and future smart farming market. The current world marketing and  promotion tactics are primary to the greater product awareness, brand development and  product percolation. It also act as an important feedback mechanism through customer engagement to develop the product [3],[5],[7],[8]. The overall emphasis will be increasing customer engagement and creating a feedback-back beneficial ecosystem, essential for the next iteration of product development. 
+Promotion: Along with it, the online and real-world selling, the promotion methods will include digital marketing promotions, attaching government funds and subsidies to the product purchase options. Real-world marketing will involve attending events and conferences of technology and innovations within the future farming realm. It ground marketing will also involve orientation and awareness programs regarding the benefits of the use of technology in urban setup and the opportunities in the current and future smart farming market. The current world marketing and  promotion tactics are primary to the greater product awareness, brand development and  product percolation. It also act as an important feedback mechanism through customer engagement to develop the product [1],[4],[6],[8]. The overall emphasis will be increasing customer engagement and creating a feedback-back beneficial ecosystem, essential for the next iteration of product development. 
 
 
 ## Target consumer analysis
@@ -61,10 +61,28 @@ National Farmers Union push towards reducing the reliance on strawberry imports.
 
 Urban Farmers relying on greenhouse and vertical farming to extract more from less space and importantly expand the seasons of growth. 
 
-Big market players such as M&S and Ocado with heavy investments are serious potential customers. ValeFresc and Saturn have successfully explored vertical farming and open potential large market space for Parth Finder Bot [5],[3].
+Big market players such as M&S and Ocado with heavy investments are serious potential customers. ValeFresc and Saturn have successfully explored vertical farming and open potential large market space for Parth Finder Bot [4],[6].
 
-National funding and investments directed towards climate-neutral and zero carbon footprint projects targeting large-scale greenhouse and vertical farming projects [7]. 
+National funding and investments directed towards climate-neutral and zero carbon footprint projects targeting large-scale greenhouse and vertical farming projects [8]. 
 
 
 
 ## References 
+
+[1] Bhasin, H. (2019). Marketing mix of Johnson and johnson – The 4 P’s of J&J. Retrieved on 11 March, 2021, from, Marketing mix of Johnson and Johnson - The 4P's of Johnson & johnson (marketing91.com)
+
+[2] Chouhan, N. Vig, H. Deshmukh, R. (2020). Smart Agriculture Market. Pune, In:  Allied Market Research.
+
+[3] Darji, C. (2021). IoT Based Sensor for Humidity and Temperature Measurement in Smart HVAC Systems. International Journal of Recent Technology and Engineering, 9(5), 3. DOI: 10.35940/ijrte.E5125.019521.
+
+[4] FarmingUK. (2019). UK start-up aims to build over forty vertical farms.  Retrieved on 11 March, 2021, from, UK start-up aims to build over forty vertical farms - FarmingUK News
+
+[5] GeniaTech. (2020). Smart Farming. Retrieved on 11 March, 2021, from, https://www.geniatech.com/solution/smart-farming/. 
+
+[6] Sherriff, L. (2020). Making Vertical Farming Big In The U.K. Retrieved on 11 March, 2021, from, https://www.forbes.com/sites/lucysherriff/2020/02/16/making-vertical-farming-big-in-the-uk/?sh=7bb77cf3707a
+
+[7] Solanki, A. (2019). How IoT is changing the paradigm of greenhouse. Retrieved on 11 March, 2021, from, https://www.softwebsolutions.com/resources/smart-greenhouse-monitoring-solution.html.
+
+[8] Strickler, J. (2020). High-Tech Greenhouses Could Be The Future Of Agriculture. Forbes. Retrieved on 11 March, 2021, from, https://www.forbes.com/sites/jordanstrickler/2020/08/28/high-tech-greenhouses-could-be-the-future-of-agriculture/?sh=66b600a5380f
+
+
