@@ -20,7 +20,7 @@
 <img src="Final_Report/Images/Sprint6.JPG" alt="Sprint6" width="100%" height="100%">
 
 3. _**This is the sprint-7 which has been accomplished in this spring term (week 24 & week 25):**_
-<img src="Final_Report/Images/sprint7.PNG" alt="Sprint7" width="100%" height="100%">
+<img src="Final_Report/Images/Sprint7.JPG" alt="Sprint7" width="100%" height="100%">
 
 ## Burndown-Charts Discussion
 
